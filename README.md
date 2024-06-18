@@ -2,8 +2,7 @@
 
 By Heider Jeffer
 
-Title: {The Impact of Digital Transformation on Performance and the
-Cultural Industry: Challenges and Opportunities}
+# Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
 
 ## Review of the Related Work
 
@@ -59,12 +58,12 @@ social acceptability of Industry 4.0 technologies in digital
 manufacturing, highlighting the importance of considering social
 dimensions in technological advancements.
 
-Ren et al. (2023) shed light on the impact of digital transformation on
+Ren et al. \[14\] shed light on the impact of digital transformation on
 renewable energy companies' performance in China, emphasizing the role
 of digital transformation in advancing the development of renewable
 energy enterprises.
 
-Zhao et al. (2023) analyze the relationship between digital
+Zhao et al. \[15\] analyze the relationship between digital
 transformation strategy and ESG performance in large manufacturing
 enterprises, focusing on the mediating role of green innovation and
 sustainable development goals.
@@ -344,3 +343,13 @@ Mulat-weldemeskel, "A framework for assessing social acceptability of
 industry 4.0 technologies for the development of digital manufacturing,"
 *Technol. Forecast. Soc. Change*, vol. 174, p. 121217, Jan. 2022, doi:
 10.1016/J.TECHFORE.2021.121217.
+
+\[14\] Y. Ren, B. Li, and D. Liang, "Impact of digital transformation on
+renewable energy companies' performance: Evidence from China," *Front.
+Environ. Sci.*, vol. 10, Jan. 2023, doi: 10.3389/FENVS.2022.1105686.
+
+\[15\] Q. ; Zhao *et al.*, "Analyzing the Relationship between Digital
+Transformation Strategy and ESG Performance in Large Manufacturing
+Enterprises: The Mediating Role of Green Innovation," *Sustain. 2023,
+Vol. 15, Page 9998*, vol. 15, no. 13, p. 9998, Jun. 2023, doi:
+10.3390/SU15139998.
