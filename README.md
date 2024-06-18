@@ -7,7 +7,7 @@ By Heider Jeffer
 
 Digital transformation (DT) is the process by which an organization adopts and implements digital technology to create new or modify existing products, services, and operations by converting business processes into a digital format [1][2][3] 
 
-Digital transformation of Cultural Industry: is a digital transformation focuses on industries that integrate the creation, production, and commercialization of creative content, whether in the form of goods or services in a digital format[J. Heider 2024].
+Digital transformation of Cultural Industry: is a digital transformation focuses on industries in a digital format that integrate the creation, production, and commercialization of creative content, whether in the form of goods or services [J. Heider 2024].
 
 #### References
 1  Mirzagayeva, Shamiya; Aslanov, Heydar (2022-12-15). "The digitalization process: what has it led to, and what can we expect in the future?" (PDF). Metafizika. 5 (4): 10–21. eISSN 2617-751X. ISSN 2616-6879. OCLC 1117709579. Archived from the original (PDF) on 2022-11-12. Retrieved 2022-10-14.
