@@ -3,6 +3,23 @@ By Heider Jeffer
 
 # Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
 ##  Review of the Related Work
+### What is Digital transformation?
+
+Digital transformation (DT): is the process of adoption and implementation of digital technology[1][2][3] by an organization in order to create new or modify existing products, services and operations by the means of translating business processes into a digital format.
+
+Digital transformation of Cultural Industry: is a digital transformation focuses on industries that integrate the creation, production, and commercialization of creative content, whether in the form of goods or services in a digital format[J. Heider 2024].
+
+#### References
+1  Mirzagayeva, Shamiya; Aslanov, Heydar (2022-12-15). "The digitalization process: what has it led to, and what can we expect in the future?" (PDF). Metafizika. 5 (4): 10–21. eISSN 2617-751X. ISSN 2616-6879. OCLC 1117709579. Archived from the original (PDF) on 2022-11-12. Retrieved 2022-10-14.
+
+2  Vial, Gregory (2019). "Understanding digital transformation: A review and a research agenda". The Journal of Strategic Information Systems. 28 (2): 118–144. doi:10.1016/j.jsis.2019.01.003. S2CID 115202292.
+
+
+3  Warner, Karl S. R.; Wäger, Maximilian (2019-06-01). "Building dynamic capabilities for digital transformation: An ongoing process of strategic renewal". Long Range Planning. 52 (3): 326–349. doi:10.1016/j.lrp.2018.12.001. ISSN 0024-6301. S2CID 158197061.
+
+
+
+
 Digital transformation has become a significant topic of interest across various industries, including the financial service industry, oil and gas sector, automotive industry, and food retail industry. Dehnert (2020) highlights the importance of understanding how digital transformation dimensions are connected to firm performance, with contradictory findings in existing research. Affonso et al. (2020) emphasize the need for innovation in the oil and gas industry, pointing out the risk-averse approach of traditional project management as a hindrance to progress. Llopis-Albert et al. (2020) utilize fuzzy-set qualitative comparative analysis to analyze the impact of digital transformation on business performance models in the automotive industry. In the context of the banking sector, Naimi-Sadigh et al. (2021) discuss the implementation of digital transformation to respond to disruptions and drive innovation in banking services. Manjula et al. (2021) focus on digital technologies in the food retail industry, identifying challenges and opportunities in the digital transformation process. Imran et al. (2021) explore digital transformation in industrial organizations, aiming to identify key enablers and performance outcomes through data collected from leading industrial organizations. Furthermore, Kumar et al. (2022) propose a framework for assessing the social acceptability of Industry 4.0 technologies in digital manufacturing, highlighting the importance of considering social dimensions in technological advancements. Ren et al. (2023) shed light on the impact of digital transformation on renewable energy companies' performance in China, emphasizing the role of digital transformation in advancing the development of renewable energy enterprises. Zhao et al. (2023) analyze the relationship between digital transformation strategy and ESG performance in large manufacturing enterprises, focusing on the mediating role of green innovation and sustainable development goals. Overall, the literature review indicates a growing interest in understanding the impact of digital transformation on performance across various industries, highlighting both challenges and opportunities that come with embracing digital technologies (Sartal et al., 2020). The need for innovation, strategic alignment, and the identification of key enablers in the digital transformation process are recurring themes in the literature, emphasizing the importance of leveraging digital technologies to drive organizational success.
 ### References
 [1]  Antonio Sartal; Roberto Bellas; Ana M Mejías; Alberto García-Collado;  "The Sustainable Manufacturing Concept, Evolution and Opportunities Within Industry 4.0: A Literature Review",   ADVANCES IN MECHANICAL ENGINEERING,  2020.
