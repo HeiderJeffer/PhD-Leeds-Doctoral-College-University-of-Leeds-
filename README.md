@@ -1,8 +1,8 @@
 # PhD Leeds Doctoral College University of Leeds
 
-By Heider Jeffer
-
 # Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
+
+By Heider Jeffer
 
 ## Review of the Related Work
 
@@ -71,108 +71,58 @@ sustainable development goals.
 Overall, the literature review indicates a growing interest in
 understanding the impact of digital transformation on performance across
 various industries, highlighting both challenges and opportunities that
-come with embracing digital technologies (Sartal et al., 2020).
+come with embracing digital technologies (Sartal et al., \[16\].
 
 The need for innovation, strategic alignment, and the identification of
 key enablers in the digital transformation process are recurring themes
 in the literature, emphasizing the importance of leveraging digital
 technologies to drive organizational success.
 
-# References 
-
-\[1\] Antonio Sartal; Roberto Bellas; Ana M Mejías; Alberto
-García-Collado; "The Sustainable Manufacturing Concept, Evolution and
-Opportunities Within Industry 4.0: A Literature Review", ADVANCES IN
-MECHANICAL ENGINEERING, 2020.
-
-\[2\] Maik Dehnert; "Sustaining The Current or Pursuing The New:
-Incumbent Digital Transformation Strategies in The Financial Service
-Industry", BUSINESS RESEARCH, 2020. (IF: 3)
-
-\[3\] Italo Dourado Affonso; Marcelo Brandão dos Santos; Rodrigo
-Rodrigues Aragão; Pedro Fonseca Vieira; Filipe Castello Diniz; Breno
-Augusto Rodrigues; Jackson Luan Queiroz; "Digital Transformation As A
-Tool for FPSO Project Acceleration", 2020.
-
-\[4\] Carlos Llopis-Albert; Francisco Rubio; Francisco Valero; "Impact
-Of Digital Transformation On The Automotive Industry", TECHNOLOGICAL
-FORECASTING AND SOCIAL CHANGE, 2020. (IF: 5)
-
-\[5\] Ali Naimi-Sadigh; Tayebeh Asgari; Mohammad Rabiei; "Digital
-Transformation in The Value Chain Disruption of Banking Services",
-JOURNAL OF THE KNOWLEDGE ECONOMY, 2021. (IF: 3)
-
-\[6\] Faisal Imran; Khuram Shahzad; Aurangzeab Butt; Jussi Kantola;
-"Digital Transformation of Industrial Organizations: Toward An
-Integrated Framework", JOURNAL OF CHANGE MANAGEMENT, 2021. (IF: 3)
-
-\[7\] S. Manjula; P. Balaji; N. Deepa; A. Vidhyavathi; "Digital
-Transformation on Food Retail Industries-A Review", ASIAN JOURNAL OF
-AGRICULTURAL EXTENSION, ECONOMICS & ..., 2021.
-
-\[8\] Anil Kumar; Rohit Agrawal; Vishal A Wankhede; Manu Sharma; Eyob
-Mulat-weldemeskel; "A Framework for Assessing Social Acceptability of
-Industry 4.0 Technologies for The Development of Digital Manufacturing",
-TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE, 2022. (IF: 3)
-
-\[9\] Yangjun Ren; Botang Li; Dong Liang; "Impact of Digital
-Transformation on Renewable Energy Companies' Performance: Evidence from
-China", FRONTIERS IN ENVIRONMENTAL SCIENCE, 2023.
-
-\[10\] Qingqing Zhao; Xintao Li; Siqi Li; "Analyzing The Relationship
-Between Digital Transformation Strategy and ESG Performance in Large
-Manufacturing Enterprises: The Mediating Role of Green Innovation",
-SUSTAINABILITY, 2023.
-
-The impact of digital transformation on the cultural and creative
-industries is multifaceted, presenting both challenges and
-opportunities. Here are some key points:
-
-### Challenges:
+# Challenges
 
 1.  **Digital Divide**: The digital divide can hinder access to digital
     technologies and platforms, creating barriers for those who are less
-    tech-savvy or have limited resources\[1\]\[4\].
+    tech-savvy or have limited resources \[17\] \[18\].
 2.  **Copyright and Intellectual Property**: The use of digital
     technologies raises concerns about copyright and intellectual
     property, particularly in the context of digital assets and data
-    management\[2\]\[4\].
+    management \[19\] \[18\].
 3.  **Preservation of Cultural Heritage**: The digitization of cultural
     heritage poses challenges related to preservation, conservation, and
-    the long-term accessibility of digital artifacts\[1\]\[3\].
+    the long-term accessibility of digital artifacts \[17\] \[20\].
 4.  **Organizational Barriers**: The adoption of digital tools and
     processes can be hindered by organizational silos and a lack of
-    understanding of the value of data\[2\].
+    understanding of the value of data \[19\].
 
-### Opportunities:
+# Opportunities
 
 1.  **New Forms of Cultural Expression**: Digital technologies have
     enabled new forms of artistic expression, such as AR/VR, and have
-    opened up new channels for cultural consumption and
-    engagement\[1\]\[2\].
+    opened up new channels for cultural consumption and engagement
+    \[17\] \[19\].
 2.  **Increased Accessibility**: Digital platforms have increased access
-    to art and culture, making it more inclusive and global\[1\].
+    to art and culture, making it more inclusive and global \[17\] .
 3.  **Collaboration and Networking**: Digital tools facilitate global
     collaboration and networking among artists, institutions, and
-    audiences\[2\]\[3\].
+    audiences \[19\] \[20\].
 4.  **Efficient Processes**: Digital transformation can streamline
     administrative processes, reducing errors and improving employee
-    satisfaction\[2\].
+    satisfaction \[19\].
 
-### Strategies for Success:
+# Strategies for Success
 
 1.  **Data Interoperability**: Ensuring data interoperability is crucial
     for seamless end-to-end processes and for addressing copyright and
-    intellectual property concerns\[4\].
+    intellectual property concerns \[18\].
 2.  **Digital Literacy**: Developing digital literacy among artists,
     institutions, and audiences is essential for effective adoption and
-    utilization of digital technologies\[2\]\[4\].
+    utilization of digital technologies \[19\] \[18\].
 3.  **Collaborative Ecosystems**: Fostering collaborative ecosystems
     between tech startups and creative sectors can facilitate knowledge
-    exchange and innovation\[4\].
+    exchange and innovation \[18\].
 4.  **Digital Sovereignty**: Establishing digital sovereignty through
     strategic policies and regulations can ensure the long-term
-    sustainability and accessibility of digital cultural assets\[5\].
+    sustainability and accessibility of digital cultural assets \[21\]
 
 Overall, the impact of digital transformation on the cultural and
 creative industries is complex, presenting both challenges and
@@ -180,28 +130,6 @@ opportunities. By understanding these dynamics and implementing
 effective strategies, the industry can harness the potential of digital
 technologies to enhance cultural expression, accessibility, and
 collaboration.
-
-Citations:
-
-\[1\] Digital transformation in culture and art: Exploring the
-challenges, opportunities and implications in cultural studies
-(https://royalliteglobal.com/advanced-humanities/article/view/1236)
-
-\[2\] Digital Culture and Creative Industries
-https://www.valantic.com/en/industries/creative-industry/
-
-\[3\] hDigital Transformation in the Cultural and Creative Industries,
-Production, Consumption and Entrepreneurship in the Digital and Sharing
-Economy
-ttps://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-Industries-Production-Consumption-and-Entrepreneurship-in-the-Digital-and-Sharing-Economy/Massi-Vecco-Lin/p/book/9780367351168
-
-\[4\] Commission publishes two studies to map the challenges and
-opportunities for cultural and creative sectors in the digital decade
-https://digital-strategy.ec.europa.eu/en/news/commission-publishes-two-studies-map-challenges-and-opportunities-cultural-and-creative-sectors
-
-\[5\] DIGITAL TRANSFORMATION. IN THE CULTURAL AND CREATIVE. SECTORS AND
-INDUSTRIES.
-https://www.euskadi.eus/contenidos/noticia/keb_argit_23_eraldaketa_digita/es_def/adjuntos/KEB-OVC_2023_Digital-Transformation.-Executive-Summary.pdf
 
 ### Abstract
 
@@ -353,3 +281,34 @@ Transformation Strategy and ESG Performance in Large Manufacturing
 Enterprises: The Mediating Role of Green Innovation," *Sustain. 2023,
 Vol. 15, Page 9998*, vol. 15, no. 13, p. 9998, Jun. 2023, doi:
 10.3390/SU15139998.
+
+\[16\] A. Sartal, R. Bellas, A. M. Mejías, and A. García-Collado, "The
+sustainable manufacturing concept, evolution and opportunities within
+Industry 4.0: A literature review," *Adv. Mech. Eng.*, vol. 12, no. 5,
+May 2020, doi:
+10.1177/1687814020925232/ASSET/IMAGES/LARGE/10.1177_1687814020925232-FIG2.JPEG.
+
+\[17\] "Digital transformation in culture and art: Exploring the
+challenges, opportunities and implications in cultural studies \|
+Research Journal in Advanced Humanities." Accessed: Jun. 19, 2024.
+\[Online\]. Available:
+https://royalliteglobal.com/advanced-humanities/article/view/1236
+
+\[18\] "Commission publishes two studies to map the challenges and
+opportunities for cultural and creative sectors in the digital decade \|
+Shaping Europe's digital future." Accessed: Jun. 19, 2024. \[Online\].
+Available:
+https://digital-strategy.ec.europa.eu/en/news/commission-publishes-two-studies-map-challenges-and-opportunities-cultural-and-creative-sectors
+
+\[19\] "Digital Transformation of the Creative Industry." Accessed: Jun.
+19, 2024. \[Online\]. Available:
+https://www.valantic.com/en/industries/creative-industry/
+
+\[20\] M. Massi, M. Vecco, and Y. Lin, *Digital transformation in the
+cultural and creative industries : production, consumption and
+entrepreneurship in the digital and sharing economy*. Accessed: Jun. 19,
+2024. \[Online\]. Available:
+https://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-Industries-Production-Consumption-and-Entrepreneurship-in-the-Digital-and-Sharing-Economy/Massi-Vecco-Lin/p/book/9780367351168
+
+\[21\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
+INDUSTRIES - Executive Summary".
