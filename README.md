@@ -5,9 +5,20 @@ By Heider Jeffer
 ##  Review of the Related Work
 ### What is Digital transformation?
 
-Digital transformation (DT) is the process by which an organization adopts and implements digital technology to create new or modify existing products, services, and operations by converting business processes into a digital format [1][2][3] 
+The cultural industry, also known as the creative industry, encompasses businesses and activities that produce, create, distribute, and commercialize creative content and cultural products [1] [2] [3].
 
-Digital transformation of Cultural Industry: is a digital transformation focuses on industries in a digital format that integrate the creation, production, and commercialization of creative content, whether in the form of goods or services [J. Heider 2024].
+
+1 UNESCO. (n.d.). Culture: Definitions and Concepts. Retrieved from https://en.unesco.org/creativity/culture-definitions-and-concepts
+
+2 European Commission. (2010). Green Paper - Unlocking the potential of cultural and creative industries. Retrieved from https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52010DC0183
+
+3 Hesmondhalgh, D., & Pratt, A. C. (Eds.). (2005). Cultural industries and cultural policy. International Journal of Cultural Policy, 11(1), 1-13.
+
+
+
+Digital transformation (DT): is the process by which an organization adopts and implements digital technology to create new or modify existing products, services, and operations by converting business processes into a digital format [1][2][3] 
+
+The digital transformation of the cultural industry: is cultural industry involves in the process by which organizations in this sector adopt and implement digital technology to create new or modify existing products, services, and operations by converting business processes into a digital format [J. Heider 2024].
 
 #### References
 1  Mirzagayeva, Shamiya; Aslanov, Heydar (2022-12-15). "The digitalization process: what has it led to, and what can we expect in the future?" (PDF). Metafizika. 5 (4): 10–21. eISSN 2617-751X. ISSN 2616-6879. OCLC 1117709579. Archived from the original (PDF) on 2022-11-12. Retrieved 2022-10-14.
