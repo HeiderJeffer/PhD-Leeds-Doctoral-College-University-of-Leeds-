@@ -1,0 +1,26 @@
+git clone https://github.com/pbatard/rufus/
+
+Guid
+
+command 
+pandoc n.docx -o README.md --extract-media=./images/ -w gfm
+
+
+https://www.tutorialsteacher.com/articles/convert-word-doc-to-markdown
+
+Read me to word
+pandoc n.docx -o README.md --extract-media=./images/ -w gfm
+
+
+
+word to readme
+C:\pathToFile> pandoc n.docx -o README.md 
+
+
+C:\pathToFile> pandoc n.docx -o README.md --extract-media=./images/
+
+
+Download Pandoc:
+https://pandoc.org/MANUAL.html
+
+https://github.com/jgm/pandoc
