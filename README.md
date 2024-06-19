@@ -1,5 +1,15 @@
-**Title: {The Impact of Digital Transformation on Performance and the
-Cultural Industry: Challenges and Opportunities}**
+**Title: {The Impact of** **Digital Transformation on Performance and
+the Cultural Industry: Challenges and Opportunities}**
+
+**Keywords:** Cultural Industry Digitalization, Digital Innovation in
+Arts, Technological Change in Cultural Organizations, Operational
+Efficiency in Cultural Institutions, Creative Industries Digital
+Transformation, Digital Transformation Barriers in Culture, Digital
+Revenue Streams in Culture, New Media in Cultural Expression,
+Digitization of Cultural Heritage, Ethical Issues in Digital Heritage,
+Digital User Experience (UX) in Culture, Audience Interaction with
+Digital Arts, AI in Arts and Culture, Qualitative Studies in Cultural
+Transformation
 
 PhD Leeds Doctoral College\
 University of Leeds
@@ -223,11 +233,42 @@ explained in detail in the subsequent text.
 
 ## Data Collection Steps
 
-(Gray literature and Primary data collection)
+**Step 1. Define and refine search keywords\
+**The initial phase of data collection involved defining the search
+keywords for retrieving secondary data. We brainstormed an initial set
+of keywords based on our primary objectives and research questions. The
+search string was structured according to the guidelines provided by
+Kitchenham (2007) \[17\].
 
-**Step 1:** Define and refine search keywords for Google:
+To ensure comprehensive coverage of keywords related to {The Impact of
+Digital Transformation on Performance and the Cultural Industry:
+Challenges and Opportunities}, I will review the search string from a
+systematic mapping study in Arts, Humanities, and Cultures. After
+conducting several trial searches, observing the results, and refining
+the search string, I developed the following final search string:
 
-**Step 2:** Apply (Modified Search Keywords) in Google search engine:\
+\[(Challenges) OR (Opportunities)\] AND \[(Digital Transformation) AND
+((Cultural Industry)\]
+
+We used {Digital Transformation} because this term is frequently used in
+online sources to describe organizations adopting and implementing
+digital technology. We recognize that some sources discussing
+(Challenges) OR (Opportunities) might not explicitly use this term.
+However, this risk was mitigated by the widespread recognition and usage
+of (Challenges OR Opportunities) in digital communities alongside
+{Digital Transformation} AND (Cultural Industry)\].
+
+**Step 2: Applying search keywords using the Google search engine:\
+**To search online sources, the Google search engine was accessed
+through the Chrome browser. To minimize the influence of geographical
+location on the search results, [www.google.com](http://www.google.com)
+was used. Prior to starting the search, I deleted the search history in
+Chrome, cleared the browser cache, logged out of my personal Google
+account, and removed all Chrome extensions. These steps were taken to
+ensure that my personal and historical data had minimal impact on the
+search results. In the Google search settings, I turned off Google
+Instant predictions and enabled 100 results per page.
+
 **Step 3:** Export \[Search Results\]\
 **Step 4:** Apply inclusion/exclusion criteria to \[Search Results
 Collection A\]:\
@@ -475,47 +516,47 @@ the cultural industry.
 
 1.  **Digital Divide**: The digital divide can hinder access to digital
     technologies and platforms, creating barriers for those who are less
-    tech-savvy or have limited resources \[17\] \[18\].
+    tech-savvy or have limited resources \[18\] \[19\].
 2.  **Copyright and Intellectual Property**: The use of digital
     technologies raises concerns about copyright and intellectual
     property, particularly in the context of digital assets and data
-    management \[19\] \[18\].
+    management \[20\] \[19\].
 3.  **Preservation of Cultural Heritage**: The digitization of cultural
     heritage poses challenges related to preservation, conservation, and
-    the long-term accessibility of digital artifacts \[17\] \[20\].
+    the long-term accessibility of digital artifacts \[18\] \[21\].
 4.  **Organizational Barriers**: The adoption of digital tools and
     processes can be hindered by organizational silos and a lack of
-    understanding of the value of data \[19\].
+    understanding of the value of data \[20\].
 
 ## Opportunities
 
 1.  **New Forms of Cultural Expression**: Digital technologies have
     enabled new forms of artistic expression, such as AR/VR, and have
     opened up new channels for cultural consumption and engagement
-    \[17\] \[19\].
+    \[18\] \[20\].
 2.  **Increased Accessibility**: Digital platforms have increased access
-    to art and culture, making it more inclusive and global \[17\] .
+    to art and culture, making it more inclusive and global \[18\] .
 3.  **Collaboration and Networking**: Digital tools facilitate global
     collaboration and networking among artists, institutions, and
-    audiences \[19\] \[20\].
+    audiences \[20\] \[21\].
 4.  **Efficient Processes**: Digital transformation can streamline
     administrative processes, reducing errors and improving employee
-    satisfaction \[19\].
+    satisfaction \[20\].
 
 ## Strategies for Success
 
 1.  **Data Interoperability**: Ensuring data interoperability is crucial
     for seamless end-to-end processes and for addressing copyright and
-    intellectual property concerns \[18\].
+    intellectual property concerns \[19\].
 2.  **Digital Literacy**: Developing digital literacy among artists,
     institutions, and audiences is essential for effective adoption and
-    utilization of digital technologies \[19\] \[18\].
+    utilization of digital technologies \[20\] \[19\].
 3.  **Collaborative Ecosystems**: Fostering collaborative ecosystems
     between tech startups and creative sectors can facilitate knowledge
-    exchange and innovation \[18\].
+    exchange and innovation \[19\].
 4.  **Digital Sovereignty**: Establishing digital sovereignty through
     strategic policies and regulations can ensure the long-term
-    sustainability and accessibility of digital cultural assets \[21\].
+    sustainability and accessibility of digital cultural assets \[22\].
 
 Overall, the impact of digital transformation on the cultural and
 creative industries is complex, presenting both challenges and
@@ -722,29 +763,33 @@ Industry 4.0: A literature review," *Adv. Mech. Eng.*, vol. 12, no. 5,
 May 2020, doi:
 10.1177/1687814020925232/ASSET/IMAGES/LARGE/10.1177_1687814020925232-FIG2.JPEG.
 
-\[17\] "Digital transformation in culture and art: Exploring the
+\[17\] M. Petticrew and H. Roberts, "Systematic Reviews in the Social
+Sciences: A Practical Guide," *Syst. Rev. Soc. Sci. A Pract. Guid.*, pp.
+1--336, Jan. 2008, doi: 10.1002/9780470754887.
+
+\[18\] "Digital transformation in culture and art: Exploring the
 challenges, opportunities and implications in cultural studies \|
 Research Journal in Advanced Humanities." Accessed: Jun. 19, 2024.
 \[Online\]. Available:
 https://royalliteglobal.com/advanced-humanities/article/view/1236
 
-\[18\] "Commission publishes two studies to map the challenges and
+\[19\] "Commission publishes two studies to map the challenges and
 opportunities for cultural and creative sectors in the digital decade \|
 Shaping Europe's digital future." Accessed: Jun. 19, 2024. \[Online\].
 Available:
 https://digital-strategy.ec.europa.eu/en/news/commission-publishes-two-studies-map-challenges-and-opportunities-cultural-and-creative-sectors
 
-\[19\] "Digital Transformation of the Creative Industry." Accessed: Jun.
+\[20\] "Digital Transformation of the Creative Industry." Accessed: Jun.
 19, 2024. \[Online\]. Available:
 https://www.valantic.com/en/industries/creative-industry/
 
-\[20\] M. Massi, M. Vecco, and Y. Lin, *Digital transformation in the
+\[21\] M. Massi, M. Vecco, and Y. Lin, *Digital transformation in the
 cultural and creative industries : production, consumption and
 entrepreneurship in the digital and sharing economy*. Accessed: Jun. 19,
 2024. \[Online\]. Available:
 https://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-Industries-Production-Consumption-and-Entrepreneurship-in-the-Digital-and-Sharing-Economy/Massi-Vecco-Lin/p/book/9780367351168
 
-\[21\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
+\[22\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
 INDUSTRIES - Executive Summary".
 
 # APPENDIX
