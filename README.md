@@ -189,59 +189,6 @@ key enablers in the digital transformation process are recurring themes
 in the literature, emphasizing the importance of leveraging digital
 technologies to drive organizational success.
 
-## Challenges
-
-1.  **Digital Divide**: The digital divide can hinder access to digital
-    technologies and platforms, creating barriers for those who are less
-    tech-savvy or have limited resources \[17\] \[18\].
-2.  **Copyright and Intellectual Property**: The use of digital
-    technologies raises concerns about copyright and intellectual
-    property, particularly in the context of digital assets and data
-    management \[19\] \[18\].
-3.  **Preservation of Cultural Heritage**: The digitization of cultural
-    heritage poses challenges related to preservation, conservation, and
-    the long-term accessibility of digital artifacts \[17\] \[20\].
-4.  **Organizational Barriers**: The adoption of digital tools and
-    processes can be hindered by organizational silos and a lack of
-    understanding of the value of data \[19\].
-
-## Opportunities
-
-1.  **New Forms of Cultural Expression**: Digital technologies have
-    enabled new forms of artistic expression, such as AR/VR, and have
-    opened up new channels for cultural consumption and engagement
-    \[17\] \[19\].
-2.  **Increased Accessibility**: Digital platforms have increased access
-    to art and culture, making it more inclusive and global \[17\] .
-3.  **Collaboration and Networking**: Digital tools facilitate global
-    collaboration and networking among artists, institutions, and
-    audiences \[19\] \[20\].
-4.  **Efficient Processes**: Digital transformation can streamline
-    administrative processes, reducing errors and improving employee
-    satisfaction \[19\].
-
-## Strategies for Success
-
-1.  **Data Interoperability**: Ensuring data interoperability is crucial
-    for seamless end-to-end processes and for addressing copyright and
-    intellectual property concerns \[18\].
-2.  **Digital Literacy**: Developing digital literacy among artists,
-    institutions, and audiences is essential for effective adoption and
-    utilization of digital technologies \[19\] \[18\].
-3.  **Collaborative Ecosystems**: Fostering collaborative ecosystems
-    between tech startups and creative sectors can facilitate knowledge
-    exchange and innovation \[18\].
-4.  **Digital Sovereignty**: Establishing digital sovereignty through
-    strategic policies and regulations can ensure the long-term
-    sustainability and accessibility of digital cultural assets \[21\].
-
-Overall, the impact of digital transformation on the cultural and
-creative industries is complex, presenting both challenges and
-opportunities. By understanding these dynamics and implementing
-effective strategies, the industry can harness the potential of digital
-technologies to enhance cultural expression, accessibility, and
-collaboration.
-
 # Gap in Literature
 
 Current literature lacks a holistic analysis of the relationship between
@@ -358,47 +305,47 @@ the cultural industry.
 
 ## Challenges
 
-5.  **Digital Divide**: The digital divide can hinder access to digital
+1.  **Digital Divide**: The digital divide can hinder access to digital
     technologies and platforms, creating barriers for those who are less
     tech-savvy or have limited resources \[17\] \[18\].
-6.  **Copyright and Intellectual Property**: The use of digital
+2.  **Copyright and Intellectual Property**: The use of digital
     technologies raises concerns about copyright and intellectual
     property, particularly in the context of digital assets and data
     management \[19\] \[18\].
-7.  **Preservation of Cultural Heritage**: The digitization of cultural
+3.  **Preservation of Cultural Heritage**: The digitization of cultural
     heritage poses challenges related to preservation, conservation, and
     the long-term accessibility of digital artifacts \[17\] \[20\].
-8.  **Organizational Barriers**: The adoption of digital tools and
+4.  **Organizational Barriers**: The adoption of digital tools and
     processes can be hindered by organizational silos and a lack of
     understanding of the value of data \[19\].
 
 ## Opportunities
 
-9.  **New Forms of Cultural Expression**: Digital technologies have
+5.  **New Forms of Cultural Expression**: Digital technologies have
     enabled new forms of artistic expression, such as AR/VR, and have
     opened up new channels for cultural consumption and engagement
     \[17\] \[19\].
-10. **Increased Accessibility**: Digital platforms have increased access
+6.  **Increased Accessibility**: Digital platforms have increased access
     to art and culture, making it more inclusive and global \[17\] .
-11. **Collaboration and Networking**: Digital tools facilitate global
+7.  **Collaboration and Networking**: Digital tools facilitate global
     collaboration and networking among artists, institutions, and
     audiences \[19\] \[20\].
-12. **Efficient Processes**: Digital transformation can streamline
+8.  **Efficient Processes**: Digital transformation can streamline
     administrative processes, reducing errors and improving employee
     satisfaction \[19\].
 
 ## Strategies for Success
 
-13. **Data Interoperability**: Ensuring data interoperability is crucial
+9.  **Data Interoperability**: Ensuring data interoperability is crucial
     for seamless end-to-end processes and for addressing copyright and
     intellectual property concerns \[18\].
-14. **Digital Literacy**: Developing digital literacy among artists,
+10. **Digital Literacy**: Developing digital literacy among artists,
     institutions, and audiences is essential for effective adoption and
     utilization of digital technologies \[19\] \[18\].
-15. **Collaborative Ecosystems**: Fostering collaborative ecosystems
+11. **Collaborative Ecosystems**: Fostering collaborative ecosystems
     between tech startups and creative sectors can facilitate knowledge
     exchange and innovation \[18\].
-16. **Digital Sovereignty**: Establishing digital sovereignty through
+12. **Digital Sovereignty**: Establishing digital sovereignty through
     strategic policies and regulations can ensure the long-term
     sustainability and accessibility of digital cultural assets \[21\].
 
