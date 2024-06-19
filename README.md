@@ -1,5 +1,8 @@
-# Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
-### PhD Leeds Doctoral College - University of Leeds
+**Title: {The Impact of Digital Transformation on Performance and the
+Cultural Industry: Challenges and Opportunities}**
+
+PhD Leeds Doctoral College\
+University of Leeds
 
 By Heider Jeffer
 
@@ -268,7 +271,6 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
-<<<<<<< HEAD
 # Timescale for Research Project on Digital Transformation in the Cultural Industry
 
 This timescale ensures a structured approach to this research, with
@@ -440,8 +442,6 @@ well-planned.
 -   **Year 4:** Finalize and disseminate research, ensuring practical
     and academic contributions.
 
-=======
->>>>>>> d53d3553ec9c6b6286336c623e07f18d13b0f955
 # Expected outcomes
 
 ## Outline of Contribution
@@ -524,11 +524,125 @@ effective strategies, the industry can harness the potential of digital
 technologies to enhance cultural expression, accessibility, and
 collaboration.
 
-# Discussion
+# limitations
 
--   Most Critical Factors
+Identifying the limitations of your research on the impact of digital
+transformation on the cultural industry is crucial for understanding the
+boundaries of this study and for contextualizing the findings. Here are
+some potential limitations:
 
--   Limitations of the study
+1\. **Data Availability and Quality**
+
+-   **Access to Comprehensive Data:** Gaining access to detailed
+    financial and operational data from cultural organizations may be
+    challenging due to confidentiality concerns.
+
+-   **Data Completeness:** There may be gaps or inconsistencies in the
+    available data, especially in secondary sources.
+
+-   **Bias in Data Collection:** Data collected from surveys and
+    interviews may be subject to response bias, where participants
+    provide socially desirable answers.
+
+2\. **Scope and Generalizability**
+
+-   **Sample Size and Diversity:** The number and diversity of cultural
+    organizations included in the study may limit the generalizability
+    of the findings to the entire cultural industry.
+
+-   **Geographical Limitations:** The study may focus on cultural
+    organizations in specific regions, which may not represent global
+    trends.
+
+3\. **Methodological Constraints**
+
+-   **Mixed-Methods Challenges:** Integrating quantitative and
+    qualitative data can be complex and may lead to challenges in
+    synthesizing findings.
+
+-   **Temporal Limitations:** The research may not fully capture the
+    long-term impacts of digital transformation, focusing instead on
+    more immediate effects.
+
+4\. **Technological Evolution**
+
+-   **Rapid Technological Changes:** The fast pace of technological
+    advancement means that the findings may quickly become outdated as
+    new technologies emerge.
+
+-   **Variation in Technology Adoption:** Different cultural
+    organizations may adopt digital technologies at varying rates,
+    leading to a wide range of impacts that are difficult to
+    standardize.
+
+5\. **Organizational and Cultural Differences**
+
+-   **Heterogeneity of Cultural Organizations:** The cultural industry
+    is diverse, encompassing various sectors (e.g., museums, performing
+    arts, literature), which may experience digital transformation
+    differently.
+
+-   **Resistance to Change:** Some organizations may resist digital
+    transformation due to cultural or organizational inertia, impacting
+    the study's findings.
+
+6\. **External Factors**
+
+-   **Regulatory Environment:** Changes in regulatory frameworks,
+    intellectual property laws, and government policies can influence
+    the impact of digital transformation on the cultural industry.
+
+-   **Economic Conditions:** Economic downturns or financial constraints
+    may affect the ability of cultural organizations to invest in
+    digital technologies.
+
+7\. **Ethical Considerations**
+
+-   **Privacy and Confidentiality:** Ensuring the confidentiality and
+    ethical use of data collected from cultural organizations and
+    individuals can limit the scope of data available for analysis.
+
+-   **Bias in Case Studies:** Selecting case studies may introduce
+    selection bias, affecting the generalizability of the findings.
+
+8\. **Conceptual and Theoretical Limitations**
+
+-   **Defining Digital Transformation:** The concept of digital
+    transformation is broad and may be interpreted differently by
+    various stakeholders, leading to challenges in defining and
+    measuring its impact consistently.
+
+-   **Performance Metrics:** Identifying and measuring the right
+    performance metrics that accurately reflect the impact of digital
+    transformation can be challenging.
+
+**Summary of Limitations**
+
+-   **Data Availability and Quality:** Challenges in accessing
+    comprehensive, high-quality data and potential biases in data
+    collection.
+
+-   **Scope and Generalizability:** Limitations due to sample size,
+    geographical focus, and diversity of cultural organizations.
+
+-   **Methodological Constraints:** Complexities in integrating mixed
+    methods and capturing long-term impacts.
+
+-   **Technological Evolution:** Rapid changes in technology and varying
+    rates of adoption among organizations.
+
+-   **Organizational and Cultural Differences:** Diversity in the
+    cultural sector and potential resistance to change.
+
+-   **External Factors:** Influence of regulatory, economic, and policy
+    changes.
+
+-   **Ethical Considerations:** Ensuring data privacy and avoiding bias
+    in case study selection.
+
+-   **Conceptual and Theoretical Limitations:** Broad interpretations of
+    digital transformation and challenges in defining performance
+    metrics.
 
 # Bibliography
 
@@ -632,3 +746,32 @@ https://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-In
 
 \[21\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
 INDUSTRIES - Executive Summary".
+
+# APPENDIX
+
+## Data collection and Data Analysis with NVivo Software
+
+E,g, 3 Data Analysis showing How we processed the Case Studies by NVivo
+software
+
+![Graphical user interface, application, table Description automatically
+generated](./images/media/image2.png){width="6.5in"
+height="3.732646544181977in"}
+
+E.g, Showing how we use NVivo software to process the Content
+Analysis![Graphical user interface, text, application Description
+automatically generated](./images/media/image3.png){width="6.5in"
+height="3.745365266841645in"}
+
+![Graphical user interface, text, application Description automatically
+generated](./images/media/image4.png){width="6.743055555555555in"
+height="3.8868055555555556in"}
+
+![Graphical user interface, application, table, Excel Description
+automatically
+generated](./images/media/image5.png){width="6.743055555555555in"
+height="3.8819444444444446in"}
+
+![Graphical user interface, application, table Description automatically
+generated](./images/media/image6.png){width="6.743055555555555in"
+height="3.8805555555555555in"}
