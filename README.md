@@ -1,8 +1,5 @@
-**Title: {The Impact of Digital Transformation on Performance and the
-Cultural Industry: Challenges and Opportunities}**
-
-PhD Leeds Doctoral College\
-University of Leeds
+# Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
+### PhD Leeds Doctoral College - University of Leeds
 
 By Heider Jeffer
 
@@ -271,6 +268,7 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
+<<<<<<< HEAD
 # Timescale for Research Project on Digital Transformation in the Cultural Industry
 
 This timescale ensures a structured approach to this research, with
@@ -442,6 +440,8 @@ well-planned.
 -   **Year 4:** Finalize and disseminate research, ensuring practical
     and academic contributions.
 
+=======
+>>>>>>> d53d3553ec9c6b6286336c623e07f18d13b0f955
 # Expected outcomes
 
 ## Outline of Contribution
