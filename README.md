@@ -294,7 +294,7 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
-# Expected Finding
+# Expected outcomes
 
 ## Outline of Contribution
 
