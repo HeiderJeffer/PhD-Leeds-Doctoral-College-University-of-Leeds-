@@ -130,50 +130,51 @@ Digital transformation has become a significant topic of interest across
 various industries, including the financial service industry, oil and
 gas sector, automotive industry, and food retail industry.
 
-Study 1: Dehnert \[7\] highlights the importance of understanding how
-digital transformation dimensions are connected to firm performance,
-with contradictory findings in existing research.
+-   Study 1: Dehnert \[7\] highlights the importance of understanding
+    how digital transformation dimensions are connected to firm
+    performance, with contradictory findings in existing research.
 
-Study 2: Affonso et al \[8\] emphasize the need for innovation in the
-oil and gas industry, pointing out the risk-averse approach of
-traditional project management as a hindrance to progress.
+-   Study 2: Affonso et al \[8\] emphasize the need for innovation in
+    the oil and gas industry, pointing out the risk-averse approach of
+    traditional project management as a hindrance to progress.
 
-Study 3: Llopis-Albert et al \[9\] utilize fuzzy-set qualitative
-comparative analysis to analyze the impact of digital transformation on
-business performance models in the automotive industry.
+-   Study 3: Llopis-Albert et al \[9\] utilize fuzzy-set qualitative
+    comparative analysis to analyze the impact of digital transformation
+    on business performance models in the automotive industry.
 
-Study 4: In the context of the banking sector, Naimi-Sadigh et al \[10\]
-discuss the implementation of digital transformation to respond to
-disruptions and drive innovation in banking services.
+-   Study 4: In the context of the banking sector, Naimi-Sadigh et al
+    \[10\] discuss the implementation of digital transformation to
+    respond to disruptions and drive innovation in banking services.
 
-Study 5: Manjula et al \[11\] focus on digital technologies in the food
-retail industry, identifying challenges and opportunities in the digital
-transformation process.
+-   Study 5: Manjula et al \[11\] focus on digital technologies in the
+    food retail industry, identifying challenges and opportunities in
+    the digital transformation process.
 
-Study 6: Imran et al \[12\]  explore digital transformation in
-industrial organizations, aiming to identify key enablers and
-performance outcomes through data collected from leading industrial
-organizations.
+-   Study 6: Imran et al \[12\]  explore digital transformation in
+    industrial organizations, aiming to identify key enablers and
+    performance outcomes through data collected from leading industrial
+    organizations.
 
-Study 7: Furthermore, Kumar et al. \[13\] propose a framework for
-assessing the social acceptability of Industry 4.0 technologies in
-digital manufacturing, highlighting the importance of considering social
-dimensions in technological advancements.
+-   Study 7: Furthermore, Kumar et al. \[13\] propose a framework for
+    assessing the social acceptability of Industry 4.0 technologies in
+    digital manufacturing, highlighting the importance of considering
+    social dimensions in technological advancements.
 
-Study 8: Ren et al. \[14\] shed light on the impact of digital
-transformation on renewable energy companies' performance in China,
-emphasizing the role of digital transformation in advancing the
-development of renewable energy enterprises.
+-   Study 8: Ren et al. \[14\] shed light on the impact of digital
+    transformation on renewable energy companies' performance in China,
+    emphasizing the role of digital transformation in advancing the
+    development of renewable energy enterprises.
 
-Study 9: Zhao et al. \[15\] analyze the relationship between digital
-transformation strategy and ESG performance in large manufacturing
-enterprises, focusing on the mediating role of green innovation and
-sustainable development goals.
+-   Study 9: Zhao et al. \[15\] analyze the relationship between digital
+    transformation strategy and ESG performance in large manufacturing
+    enterprises, focusing on the mediating role of green innovation and
+    sustainable development goals.
 
-Study 10: Overall, the literature review indicates a growing interest in
-understanding the impact of digital transformation on performance across
-various industries, highlighting both challenges and opportunities that
-come with embracing digital technologies (Sartal et al., \[16\].
+-   Study 10: Overall, the literature review indicates a growing
+    interest in understanding the impact of digital transformation on
+    performance across various industries, highlighting both challenges
+    and opportunities that come with embracing digital technologies
+    (Sartal et al., \[16\].
 
 The need for innovation, strategic alignment, and the identification of
 key enablers in the digital transformation process are recurring themes
