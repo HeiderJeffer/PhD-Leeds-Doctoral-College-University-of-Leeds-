@@ -35,11 +35,13 @@ Research questions for the title \"The Impact of Digital Transformation
 on Performance and the Cultural Industry: Challenges and Opportunities\"
 could include:
 
-**RQ 1. Impact on Performance:**\
-- How does digital transformation influence the operational efficiency
-and effectiveness of cultural institutions?\
-- What are the key performance metrics affected by digital
-transformation in the cultural industry?
+**RQ 1. Impact on Performance:**
+
+-   How does digital transformation influence the operational efficiency
+    and effectiveness of cultural institutions?
+
+-   What are the key performance metrics affected by digital
+    transformation in the cultural industry?
 
 **RQ 2. Cultural Industry Transformation:**
 
