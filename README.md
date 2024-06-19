@@ -280,6 +280,65 @@ explained in detail in the subsequent text.
 Collection A\]:\
 To select the website relevant to our study.
 
+
+
+
+
+
+<body>
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>Inclusion criteria</strong></p>
+			</td>
+			<td>
+			<p><strong>Exclusion criteria</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Records are freely accessible by all party and available</p>
+			<p>at any time</p>
+			</td>
+			<td>
+			<p>Records are not freely accessible by all party and</p>
+			<p>available at any time</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Records are in English</p>
+			</td>
+			<td>
+			<p>Records are not in English</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Records can be digitized</p>
+			</td>
+			<td>
+			<p>Records cannot be digitized</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Records are imported from imported from PhD Leeds Doctoral College - University of Leeds</p>
+			</td>
+			<td>
+			<p>Records are imported from SlideShare, Quora, Twitter, Facebook, LinkedIn, personal (or company) blogs</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+</body>
+
+
+
+
 ## Data Analysis
 
 Inclusion criteria and Exclusion criteria
