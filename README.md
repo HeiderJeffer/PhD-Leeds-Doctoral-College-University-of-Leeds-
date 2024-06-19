@@ -280,60 +280,39 @@ Leeds, the search results need to be exported. I will export the search
 results (in the form of URLs) from the Chrome browser on my laptop into
 a Word file (DOCX format).
 
-**Step 4:** Apply inclusion/exclusion criteria to \[Search Results
-Collection A\]:\
-To select the website relevant to our study.
+**Step 4: Apply Inclusion/Exclusion Criteria to Search Results
+Collection A**
 
-<body>
-<table border="1" cellpadding="0" cellspacing="0">
-	<tbody>
-		<tr>
-			<td>
-			<p>Inclusion criteria</p>
-			</td>
-			<td>
-			<p>Exclusion criteria</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are freely accessible by all party and available</p>
-			<p>at any time</p>
-			</td>
-			<td>
-			<p>Records are not freely accessible by all party and</p>
-			<p>available at any time</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are in English</p>
-			</td>
-			<td>
-			<p>Records are not in English</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records can be digitized</p>
-			</td>
-			<td>
-			<p>Records cannot be digitized</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are imported from imported from PhD Leeds Doctoral College - University of Leeds</p>
-			</td>
-			<td>
-			<p>Records are imported from SlideShare, Quora, Twitter, Facebook, LinkedIn, personal (or company) blogs</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<p>&nbsp;</p>
-</body>
+To identify webpages with relevant and reliable content for this study,
+we applied a set of inclusion and exclusion criteria to Search Results
+Collection A.
 
+**Inclusion criteria:**
+
+-   The URL is working and freely accessible.
+
+-   The topic of the webpage pertains to pivoting within the context of
+    (Digital Transformation and Cultural Industry).
+
+-   The webpage contains examples related to (Digital Transformation and
+    Cultural Industry).
+
+-   The examples are specifically from (Digital Transformation and
+    Cultural Industry).
+
+-   The webpage is in English.
+
+**Exclusion criteria:**
+
+-   The webpage contains duplicated content from a previously examined
+    webpage.
+
+-   The webpage is non-text-based (e.g., videos, audios, or images).
+
+-   The webpage is hosted on Slideshare, Quora, LinkedIn, or
+    personal/company blogs.
+
+-   The webpage is not in English.
 
 ## Data Analysis Steps
 
