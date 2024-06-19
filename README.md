@@ -1,8 +1,5 @@
-**Title: {The Impact of Digital Transformation on Performance and the
-Cultural Industry: Challenges and Opportunities}**
-
-PhD Leeds Doctoral College\
-University of Leeds
+# Title: {The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities}
+### PhD Leeds Doctoral College - University of Leeds
 
 By Heider Jeffer
 
