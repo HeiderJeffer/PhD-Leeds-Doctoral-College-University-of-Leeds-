@@ -280,26 +280,6 @@ explained in detail in the subsequent text.
 Collection A\]:\
 To select the website relevant to our study.
 
-+-----------------------------------+-----------------------------------+
-| **Inclusion criteria**            | **Exclusion criteria**            |
-+===================================+===================================+
-| Records are freely accessible by  | Records are not freely accessible |
-| all party and available           | by all party and                  |
-|                                   |                                   |
-| at any time                       | available at any time             |
-+-----------------------------------+-----------------------------------+
-| Records are in English            | Records are not in English        |
-+-----------------------------------+-----------------------------------+
-| Records can be digitized          | Records cannot be digitized       |
-+-----------------------------------+-----------------------------------+
-| Records are imported from         | Records are imported from         |
-| imported from PhD Leeds Doctoral  | SlideShare, Quora, Twitter,       |
-| College - University of Leeds     | Facebook, LinkedIn, personal (or  |
-|                                   | company) blogs                    |
-+-----------------------------------+-----------------------------------+
-
-: Figure 1 Diagram for digital transformation of the cultural industry
-
 ## Data Analysis
 
 Inclusion criteria and Exclusion criteria
