@@ -233,7 +233,9 @@ explained in detail in the subsequent text.
 
 ## Data Collection Steps
 
-**Step 1. Define and refine search keywords\
+**Step 1. Define and refine search keywords**
+
+**\
 **The initial phase of data collection involved defining the search
 keywords for retrieving secondary data. We brainstormed an initial set
 of keywords based on our primary objectives and research questions. The
@@ -258,7 +260,9 @@ However, this risk was mitigated by the widespread recognition and usage
 of (Challenges OR Opportunities) in digital communities alongside
 {Digital Transformation} AND (Cultural Industry)\].
 
-**Step 2: Applying search keywords using the Google search engine:\
+**Step 2: Applying search keywords using the Google search engine:**
+
+**\
 **To search online sources, the Google search engine was accessed
 through the Chrome browser. To minimize the influence of geographical
 location on the search results, [www.google.com](http://www.google.com)
