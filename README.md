@@ -120,8 +120,11 @@ advancements.
     business processes into a digital format \[4\] \[5\] \[6\].
 
 ![A diagram of different types of industry Description automatically
-generated](./images/media/image1.png){width="6.5in"
-height="4.751388888888889in"}
+generated](./images/media/image1.png){width="5.833333333333333in"
+height="4.264066054243219in"}
+
+A diagram of different types of industry Description automatically
+generated
 
 -   T**he** **digital transformation of the** **cultural industry:** is
     cultural industry involves in the process by which organizations in
@@ -160,7 +163,7 @@ gas sector, automotive industry, and food retail industry.
     performance outcomes through data collected from leading industrial
     organizations.
 
--   Study 7: Furthermore, Kumar et al. \[13\] propose a framework for
+-   Study 7: Furthermore, Kumar et al. \[13\] propose a framework for
     assessing the social acceptability of Industry 4.0 technologies in
     digital manufacturing, highlighting the importance of considering
     social dimensions in technological advancements.
@@ -280,64 +283,33 @@ explained in detail in the subsequent text.
 Collection A\]:\
 To select the website relevant to our study.
 
+Inclusion criteria
 
+Exclusion criteria
 
+Records are freely accessible by all party and available
 
+at any time
 
+Records are not freely accessible by all party and
 
-<body>
-<table border="1" cellpadding="0" cellspacing="0">
-	<tbody>
-		<tr>
-			<td>
-			<p><strong>Inclusion criteria</strong></p>
-			</td>
-			<td>
-			<p><strong>Exclusion criteria</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are freely accessible by all party and available</p>
-			<p>at any time</p>
-			</td>
-			<td>
-			<p>Records are not freely accessible by all party and</p>
-			<p>available at any time</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are in English</p>
-			</td>
-			<td>
-			<p>Records are not in English</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records can be digitized</p>
-			</td>
-			<td>
-			<p>Records cannot be digitized</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Records are imported from imported from PhD Leeds Doctoral College - University of Leeds</p>
-			</td>
-			<td>
-			<p>Records are imported from SlideShare, Quora, Twitter, Facebook, LinkedIn, personal (or company) blogs</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+available at any time
 
-<p>&nbsp;</p>
-</body>
+Records are in English
 
+Records are not in English
 
+Records can be digitized
 
+Records cannot be digitized
+
+Records are imported from imported from PhD Leeds Doctoral College -
+University of Leeds
+
+Records are imported from SlideShare, Quora, Twitter, Facebook,
+LinkedIn, personal (or company) blogs
+
+ 
 
 ## Data Analysis
 
@@ -357,7 +329,7 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
-# Expected Results 
+# Expected Results
 
 # Outline of Contribution
 
@@ -371,29 +343,29 @@ and resilience of the cultural sector in the digital age.
 
 # Bibliography
 
-\[1\] "Culture \| UNESCO." Accessed: Jun. 19, 2024. \[Online\].
+\[1\] "Culture \| UNESCO." Accessed: Jun. 19, 2024. \[Online\].
 Available: https://www.unesco.org/en/culture
 
 \[2\] P. O. of the E. Union, "CELEX1, Green Paper - Unlocking the
 potential of cultural and creative industries, /\* COM/2010/0183 final
-\*/," Apr. 2010, Accessed: Jun. 19, 2024. \[Online\]. Available:
+\*/," Apr. 2010, Accessed: Jun. 19, 2024. \[Online\]. Available:
 https://op.europa.eu/en/publication-detail/-/publication/1cb6f484-074b-4913-87b3-344ccf020eef/language-en
 
 \[3\] D. Hesmondhalgh and A. C. Pratt, "Cultural industries and cultural
-policy," *Int. J. Cult. Policy*, vol. 11, no. 1, pp. 1--13, Mar. 2005,
+policy," *Int. J. Cult. Policy*, vol. 11, no. 1, pp. 1--13, Mar. 2005,
 doi: 10.1080/10286630500067598.
 
 \[4\] "Digital transformation 1," Shamiya Mirzagayeva, Heydar Aslanov.
-Accessed: Jun. 19, 2024. \[Online\]. Available:
+Accessed: Jun. 19, 2024. \[Online\]. Available:
 https://web.archive.org/web/20221112173332/https://metafizikajurnali.az/storage/images/site/files/Metafizika-20/Metafizika.Vol.5,No.4,Serial.20,pp.10-21.pdf
 
 \[5\] G. Vial, "Understanding digital transformation: A review and a
-research agenda," *J. Strateg. Inf. Syst.*, vol. 28, no. 2, pp.
-118--144, Jun. 2019, doi: 10.1016/J.JSIS.2019.01.003.
+research agenda," *J. Strateg. Inf. Syst.*, vol. 28, no. 2, pp.
+118--144, Jun. 2019, doi: 10.1016/J.JSIS.2019.01.003.
 
 \[6\] K. S. R. Warner and M. Wäger, "Building dynamic capabilities for
 digital transformation: An ongoing process of strategic renewal," *Long
-Range Plann.*, vol. 52, no. 3, pp. 326--349, Jun. 2019, doi:
+Range Plann.*, vol. 52, no. 3, pp. 326--349, Jun. 2019, doi:
 10.1016/J.LRP.2018.12.001.
 
 \[7\] M. Dehnert, "Sustaining the current or pursuing the new: incumbent
@@ -407,17 +379,17 @@ Project Acceleration," *Proc. Annu. Offshore Technol. Conf.*, vol.
 
 \[9\] C. Llopis-Albert, F. Rubio, and F. Valero, "Impact of digital
 transformation on the automotive industry," *Technol. Forecast. Soc.
-Change*, vol. 162, p. 120343, Jan. 2021, doi:
+Change*, vol. 162, p. 120343, Jan. 2021, doi:
 10.1016/J.TECHFORE.2020.120343.
 
 \[10\] A. Naimi-Sadigh, T. Asgari, and M. Rabiei, "Digital
 Transformation in the Value Chain Disruption of Banking Services," *J.
-Knowl. Econ.*, vol. 13, no. 2, pp. 1212--1242, Jun. 2022, doi:
+Knowl. Econ.*, vol. 13, no. 2, pp. 1212--1242, Jun. 2022, doi:
 10.1007/S13132-021-00759-0.
 
 \[11\] S. Manjula, P. Balaji, and N. Deepa, ") Sazelin Arif, Universiti
 Teknikal Malaysia Melaka (UTeM), Malaysia. (3) Arjun Prasad Khanal,"
-*Nepal. Rev. Artic. Manjula al*, no. 1, pp. 88--101, 2021, doi:
+*Nepal. Rev. Artic. Manjula al*, no. 1, pp. 88--101, 2021, doi:
 10.9734/AJAEES/2021/v39i1130729.
 
 \[12\] F. Imran, K. Shahzad, A. Butt, and J. Kantola, "Journal of Change
@@ -428,34 +400,34 @@ Framework," 2021, doi: 10.1080/14697017.2021.1929406.
 \[13\] A. Kumar, R. Agrawal, V. A. Wankhede, M. Sharma, and E.
 Mulat-weldemeskel, "A framework for assessing social acceptability of
 industry 4.0 technologies for the development of digital manufacturing,"
-*Technol. Forecast. Soc. Change*, vol. 174, p. 121217, Jan. 2022, doi:
+*Technol. Forecast. Soc. Change*, vol. 174, p. 121217, Jan. 2022, doi:
 10.1016/J.TECHFORE.2021.121217.
 
 \[14\] Y. Ren, B. Li, and D. Liang, "Impact of digital transformation on
 renewable energy companies' performance: Evidence from China," *Front.
-Environ. Sci.*, vol. 10, Jan. 2023, doi: 10.3389/FENVS.2022.1105686.
+Environ. Sci.*, vol. 10, Jan. 2023, doi: 10.3389/FENVS.2022.1105686.
 
 \[15\] Q. ; Zhao *et al.*, "Analyzing the Relationship between Digital
 Transformation Strategy and ESG Performance in Large Manufacturing
 Enterprises: The Mediating Role of Green Innovation," *Sustain. 2023,
-Vol. 15, Page 9998*, vol. 15, no. 13, p. 9998, Jun. 2023, doi:
+Vol. 15, Page 9998*, vol. 15, no. 13, p. 9998, Jun. 2023, doi:
 10.3390/SU15139998.
 
 \[16\] A. Sartal, R. Bellas, A. M. Mejías, and A. García-Collado, "The
 sustainable manufacturing concept, evolution and opportunities within
-Industry 4.0: A literature review," *Adv. Mech. Eng.*, vol. 12, no. 5,
+Industry 4.0: A literature review," *Adv. Mech. Eng.*, vol. 12, no. 5,
 May 2020, doi:
 10.1177/1687814020925232/ASSET/IMAGES/LARGE/10.1177_1687814020925232-FIG2.JPEG.
 
 \[17\] "Digital transformation in culture and art: Exploring the
 challenges, opportunities and implications in cultural studies \|
-Research Journal in Advanced Humanities." Accessed: Jun. 19, 2024.
+Research Journal in Advanced Humanities." Accessed: Jun. 19, 2024.
 \[Online\]. Available:
 https://royalliteglobal.com/advanced-humanities/article/view/1236
 
 \[18\] "Commission publishes two studies to map the challenges and
 opportunities for cultural and creative sectors in the digital decade \|
-Shaping Europe's digital future." Accessed: Jun. 19, 2024. \[Online\].
+Shaping Europe's digital future." Accessed: Jun. 19, 2024. \[Online\].
 Available:
 https://digital-strategy.ec.europa.eu/en/news/commission-publishes-two-studies-map-challenges-and-opportunities-cultural-and-creative-sectors
 
@@ -465,9 +437,11 @@ https://www.valantic.com/en/industries/creative-industry/
 
 \[20\] M. Massi, M. Vecco, and Y. Lin, *Digital transformation in the
 cultural and creative industries : production, consumption and
-entrepreneurship in the digital and sharing economy*. Accessed: Jun. 19,
+entrepreneurship in the digital and sharing economy*. Accessed: Jun. 19,
 2024. \[Online\]. Available:
 https://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-Industries-Production-Consumption-and-Entrepreneurship-in-the-Digital-and-Sharing-Economy/Massi-Vecco-Lin/p/book/9780367351168
 
 \[21\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
 INDUSTRIES - Executive Summary".
+
+# APPENDIX
