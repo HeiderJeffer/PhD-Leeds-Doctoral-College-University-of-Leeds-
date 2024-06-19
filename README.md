@@ -118,6 +118,9 @@ adopts and implements digital technology to create new or modify
 existing products, services, and operations by converting business
 processes into a digital format \[4\] \[5\] \[6\].
 
+![](./images/media/image1.png){width="4.918976377952756in"
+height="3.50659230096238in"}
+
 The digital transformation of the cultural industry is cultural industry
 involves in the process by which organizations in this sector adopt and
 implement digital technology to create new or modify existing products,
@@ -258,6 +261,10 @@ analysis of performance data from cultural organizations with
 qualitative case studies and expert interviews. Data will be sourced
 from industry reports, financial records, and surveys to provide a
 comprehensive overview.
+
+\*This study is designed to be exploratory. The overall data collection
+and analysis process is illustrated in the following UML diagram and
+explained in detail in the subsequent text.
 
 ## Data Collection
 
