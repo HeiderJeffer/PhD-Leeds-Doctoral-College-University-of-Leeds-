@@ -1,7 +1,8 @@
 **Title: {The Impact of Digital Transformation on Performance and the
 Cultural Industry: Challenges and Opportunities}**
 
-PhD Leeds Doctoral College University of Leeds
+PhD Leeds Doctoral College\
+University of Leeds
 
 By Heider Jeffer
 
@@ -28,6 +29,79 @@ overall performance of cultural organizations. The challenge lies in
 quantifying these impacts and understanding the nuanced ways in which
 digital transformation influences cultural production and consumption.
 
+# Possible Research questions
+
+Research questions for the title \"The Impact of Digital Transformation
+on Performance and the Cultural Industry: Challenges and Opportunities\"
+could include:
+
+**RQ 1. Impact on Performance:**\
+- How does digital transformation influence the operational efficiency
+and effectiveness of cultural institutions?\
+- What are the key performance metrics affected by digital
+transformation in the cultural industry?
+
+**RQ 2. Cultural Industry Transformation:**
+
+-   How has digital transformation changed the production, distribution,
+    and consumption patterns within the cultural industry?
+
+-   What are the emerging business models in the cultural sector due to
+    digital transformation?
+
+**RQ 3. Challenges of Digital Transformation:**
+
+-   What are the primary barriers or challenges cultural institutions
+    face when adopting digital transformation initiatives?
+
+-   How do regulatory frameworks and intellectual property rights affect
+    digital transformation in the cultural industry?
+
+**RQ 4. Opportunities Created:**
+
+\- What new opportunities for revenue generation and audience engagement
+have emerged from digital transformation in the cultural sector?
+
+\- How does digital transformation enhance cultural diversity and
+accessibility globally?
+
+**RQ 5. Impact on Cultural Heritage Preservation:**
+
+-   How does digital transformation influence the preservation and
+    promotion of cultural heritage through technology?
+
+-   What are the ethical implications of digitizing cultural artifacts
+    and traditions?
+
+**RQ 6. Comparison across Different Cultural Domains:**
+
+-   How does the impact of digital transformation vary between different
+    cultural domains (e.g., museums, performing arts, literature)?
+
+-   What lessons can be learned from successful digital transformation
+    initiatives in different cultural sectors?
+
+**RQ 7. User Experience and Engagement:**
+
+-   How does digital transformation enhance user experience and
+    engagement with cultural content?
+
+-   What are the factors influencing digital engagement and
+    participation in cultural activities?
+
+**RQ 8 Future Trends and Predictions:**
+
+-   What are the anticipated future trends in digital transformation
+    within the cultural industry?
+
+-   How might advancements in technology (e.g., AI, VR/AR) further
+    influence the cultural sector?
+
+These questions aim to explore various aspects of how digital
+transformation is shaping the cultural industry, identifying both
+challenges and opportunities brought about by technological
+advancements.
+
 # Review of the Related Work
 
 ## What is Digital transformation?
@@ -53,46 +127,47 @@ Digital transformation has become a significant topic of interest across
 various industries, including the financial service industry, oil and
 gas sector, automotive industry, and food retail industry.
 
-Dehnert \[7\] highlights the importance of understanding how digital
-transformation dimensions are connected to firm performance, with
-contradictory findings in existing research.
+Study 1: Dehnert \[7\] highlights the importance of understanding how
+digital transformation dimensions are connected to firm performance,
+with contradictory findings in existing research.
 
-Affonso et al \[8\] emphasize the need for innovation in the oil and gas
-industry, pointing out the risk-averse approach of traditional project
-management as a hindrance to progress.
+Study 2: Affonso et al \[8\] emphasize the need for innovation in the
+oil and gas industry, pointing out the risk-averse approach of
+traditional project management as a hindrance to progress.
 
-Llopis-Albert et al \[9\] utilize fuzzy-set qualitative comparative
-analysis to analyze the impact of digital transformation on business
-performance models in the automotive industry.
+Study 3: Llopis-Albert et al \[9\] utilize fuzzy-set qualitative
+comparative analysis to analyze the impact of digital transformation on
+business performance models in the automotive industry.
 
-In the context of the banking sector, Naimi-Sadigh et al \[10\] discuss
-the implementation of digital transformation to respond to disruptions
-and drive innovation in banking services.
+Study 4: In the context of the banking sector, Naimi-Sadigh et al \[10\]
+discuss the implementation of digital transformation to respond to
+disruptions and drive innovation in banking services.
 
-Manjula et al \[11\] focus on digital technologies in the food retail
-industry, identifying challenges and opportunities in the digital
+Study 5: Manjula et al \[11\] focus on digital technologies in the food
+retail industry, identifying challenges and opportunities in the digital
 transformation process.
 
-Imran et al \[12\]  explore digital transformation in industrial
-organizations, aiming to identify key enablers and performance outcomes
-through data collected from leading industrial organizations.
+Study 6: Imran et al \[12\]  explore digital transformation in
+industrial organizations, aiming to identify key enablers and
+performance outcomes through data collected from leading industrial
+organizations.
 
-Furthermore, Kumar et al. \[13\] propose a framework for assessing the
-social acceptability of Industry 4.0 technologies in digital
-manufacturing, highlighting the importance of considering social
+Study 7: Furthermore, Kumar et al. \[13\] propose a framework for
+assessing the social acceptability of Industry 4.0 technologies in
+digital manufacturing, highlighting the importance of considering social
 dimensions in technological advancements.
 
-Ren et al. \[14\] shed light on the impact of digital transformation on
-renewable energy companies' performance in China, emphasizing the role
-of digital transformation in advancing the development of renewable
-energy enterprises.
+Study 8: Ren et al. \[14\] shed light on the impact of digital
+transformation on renewable energy companies' performance in China,
+emphasizing the role of digital transformation in advancing the
+development of renewable energy enterprises.
 
-Zhao et al. \[15\] analyze the relationship between digital
+Study 9: Zhao et al. \[15\] analyze the relationship between digital
 transformation strategy and ESG performance in large manufacturing
 enterprises, focusing on the mediating role of green innovation and
 sustainable development goals.
 
-Overall, the literature review indicates a growing interest in
+Study 10: Overall, the literature review indicates a growing interest in
 understanding the impact of digital transformation on performance across
 various industries, highlighting both challenges and opportunities that
 come with embracing digital technologies (Sartal et al., \[16\].
@@ -202,6 +277,8 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
+# Expected Results 
+
 # Outline of Contribution
 
 The paper aims to contribute to the field by providing a detailed
@@ -211,8 +288,6 @@ faced by cultural organizations and highlight opportunities for
 leveraging digital technologies. The findings will inform policy
 recommendations and strategic planning for enhancing the sustainability
 and resilience of the cultural sector in the digital age.
-
-# Expected Results 
 
 # Bibliography
 
