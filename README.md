@@ -309,8 +309,6 @@ University of Leeds
 Records are imported from SlideShare, Quora, Twitter, Facebook,
 LinkedIn, personal (or company) blogs
 
- 
-
 ## Data Analysis
 
 Inclusion criteria and Exclusion criteria
@@ -329,9 +327,9 @@ Digital Transformation on Performance and the Cultural Industry. Those
 factors answered the research questions that we addressed in this
 project
 
-# Expected Results
+# Expected Finding
 
-# Outline of Contribution
+## Outline of Contribution
 
 The paper aims to contribute to the field by providing a detailed
 analysis of how digital transformation affects performance in the
@@ -340,6 +338,84 @@ faced by cultural organizations and highlight opportunities for
 leveraging digital technologies. The findings will inform policy
 recommendations and strategic planning for enhancing the sustainability
 and resilience of the cultural sector in the digital age.
+
+## The MAJOR FACTORS Impact the Digital Transformation on Performance and the Cultural Industry
+
+In this section, we will discuss the major factors influencing digital
+transformation on performance and the cultural industry, derived from
+our case studies. We will categorize these factors based on their
+commonalities, grouping them into identical categories. These factors
+will serve as the answers to the research questions posed in this
+project.
+
+## Factors Explained with Exemplar Cases
+
+In this section, we will describe each factor and present multiple case
+studies that illustrate these factors. By providing at least one
+exemplar case for each factor, we will demonstrate in greater detail how
+these factors impact digital transformation in terms of performance and
+the cultural industry.
+
+## Challenges
+
+5.  **Digital Divide**: The digital divide can hinder access to digital
+    technologies and platforms, creating barriers for those who are less
+    tech-savvy or have limited resources \[17\] \[18\].
+6.  **Copyright and Intellectual Property**: The use of digital
+    technologies raises concerns about copyright and intellectual
+    property, particularly in the context of digital assets and data
+    management \[19\] \[18\].
+7.  **Preservation of Cultural Heritage**: The digitization of cultural
+    heritage poses challenges related to preservation, conservation, and
+    the long-term accessibility of digital artifacts \[17\] \[20\].
+8.  **Organizational Barriers**: The adoption of digital tools and
+    processes can be hindered by organizational silos and a lack of
+    understanding of the value of data \[19\].
+
+## Opportunities
+
+9.  **New Forms of Cultural Expression**: Digital technologies have
+    enabled new forms of artistic expression, such as AR/VR, and have
+    opened up new channels for cultural consumption and engagement
+    \[17\] \[19\].
+10. **Increased Accessibility**: Digital platforms have increased access
+    to art and culture, making it more inclusive and global \[17\] .
+11. **Collaboration and Networking**: Digital tools facilitate global
+    collaboration and networking among artists, institutions, and
+    audiences \[19\] \[20\].
+12. **Efficient Processes**: Digital transformation can streamline
+    administrative processes, reducing errors and improving employee
+    satisfaction \[19\].
+
+## Strategies for Success
+
+13. **Data Interoperability**: Ensuring data interoperability is crucial
+    for seamless end-to-end processes and for addressing copyright and
+    intellectual property concerns \[18\].
+14. **Digital Literacy**: Developing digital literacy among artists,
+    institutions, and audiences is essential for effective adoption and
+    utilization of digital technologies \[19\] \[18\].
+15. **Collaborative Ecosystems**: Fostering collaborative ecosystems
+    between tech startups and creative sectors can facilitate knowledge
+    exchange and innovation \[18\].
+16. **Digital Sovereignty**: Establishing digital sovereignty through
+    strategic policies and regulations can ensure the long-term
+    sustainability and accessibility of digital cultural assets \[21\].
+
+Overall, the impact of digital transformation on the cultural and
+creative industries is complex, presenting both challenges and
+opportunities. By understanding these dynamics and implementing
+effective strategies, the industry can harness the potential of digital
+technologies to enhance cultural expression, accessibility, and
+collaboration.
+
+# Discussion
+
+-   Most Critical Factors
+
+-   Limitations of the study
+
+ 
 
 # Bibliography
 
