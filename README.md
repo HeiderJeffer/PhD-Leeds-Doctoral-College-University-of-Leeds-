@@ -273,7 +273,13 @@ ensure that my personal and historical data had minimal impact on the
 search results. In the Google search settings, I turned off Google
 Instant predictions and enabled 100 results per page.
 
-**Step 3:** Export \[Search Results\]\
+**Step 3: Export Search Results**
+
+To facilitate analysis by multiple researchers at the University of
+Leeds, the search results need to be exported. I will export the search
+results (in the form of URLs) from the Chrome browser on my laptop into
+a Word file (DOCX format).
+
 **Step 4:** Apply inclusion/exclusion criteria to \[Search Results
 Collection A\]:\
 To select the website relevant to our study.
