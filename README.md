@@ -258,11 +258,11 @@ strategies for cultural organizations.
 
 # Methodology Preview
 
-This research employs a mixed-method approach, combining quantitative
-analysis of performance data from cultural organizations with
-qualitative case studies and expert interviews. Data will be sourced
-from industry reports, financial records, and surveys to provide a
-comprehensive overview.
+This research utilizes a mixed-methods approach, integrating
+quantitative analysis of performance data from cultural organizations
+with qualitative case studies and expert interviews. Data will be
+sourced from industry reports, financial records, and surveys, drawing
+on gray literature to offer a comprehensive overview.
 
 \*This study is designed to be exploratory. The overall data collection
 and analysis process is illustrated in the following UML diagram and
@@ -271,6 +271,34 @@ explained in detail in the subsequent text.
 ## Data Collection
 
 (Gray literature and Primary data collection)
+
+**Step 1:** Define and refine search keywords for Google:
+
+**Step 2:** Apply (Modified Search Keywords) in Google search engine:\
+**Step 3:** Export \[Search Results\]\
+**Step 4:** Apply inclusion/exclusion criteria to \[Search Results
+Collection A\]:\
+To select the website relevant to our study.
+
++-----------------------------------+-----------------------------------+
+| **Inclusion criteria**            | **Exclusion criteria**            |
++===================================+===================================+
+| Records are freely accessible by  | Records are not freely accessible |
+| all party and available           | by all party and                  |
+|                                   |                                   |
+| at any time                       | available at any time             |
++-----------------------------------+-----------------------------------+
+| Records are in English            | Records are not in English        |
++-----------------------------------+-----------------------------------+
+| Records can be digitized          | Records cannot be digitized       |
++-----------------------------------+-----------------------------------+
+| Records are imported from         | Records are imported from         |
+| imported from PhD Leeds Doctoral  | SlideShare, Quora, Twitter,       |
+| College - University of Leeds     | Facebook, LinkedIn, personal (or  |
+|                                   | company) blogs                    |
++-----------------------------------+-----------------------------------+
+
+: Figure 1 Diagram for digital transformation of the cultural industry
 
 ## Data Analysis
 
