@@ -61,11 +61,12 @@ could include:
 
 **RQ 4. Opportunities Created:**
 
-\- What new opportunities for revenue generation and audience engagement
-have emerged from digital transformation in the cultural sector?
+-   What new opportunities for revenue generation and audience
+    engagement have emerged from digital transformation in the cultural
+    sector?
 
-\- How does digital transformation enhance cultural diversity and
-accessibility globally?
+-   How does digital transformation enhance cultural diversity and
+    accessibility globally?
 
 **RQ 5. Impact on Cultural Heritage Preservation:**
 
