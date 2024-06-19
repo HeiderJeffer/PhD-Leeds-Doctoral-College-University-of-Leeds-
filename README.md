@@ -109,24 +109,25 @@ advancements.
 
 ## What is Digital transformation?
 
-The cultural industry, also known as the creative industry, encompasses
-businesses and activities that produce, create, distribute, and
-commercialize creative content and cultural products \[1\] \[2\] \[3\].
+-   **The cultural** **industry:** also known as the creative industry,
+    encompasses businesses and activities that produce, create,
+    distribute, and commercialize creative content and cultural products
+    \[1\] \[2\] \[3\].
 
-Digital transformation (DT): is the process by which an organization
-adopts and implements digital technology to create new or modify
-existing products, services, and operations by converting business
-processes into a digital format \[4\] \[5\] \[6\].
+-   **Digital transformation (DT):** is the process by which an
+    organization adopts and implements digital technology to create new
+    or modify existing products, services, and operations by converting
+    business processes into a digital format \[4\] \[5\] \[6\].
 
 ![A diagram of different types of industry Description automatically
 generated](./images/media/image1.png){width="6.5in"
 height="4.751388888888889in"}
 
-The digital transformation of the cultural industry is cultural industry
-involves in the process by which organizations in this sector adopt and
-implement digital technology to create new or modify existing products,
-services, and operations by converting business processes into a digital
-format \[J. Heider 2024\].
+-   T**he** **digital transformation of the** **cultural industry:** is
+    cultural industry involves in the process by which organizations in
+    this sector adopt and implement digital technology to create new or
+    modify existing products, services, and operations by converting
+    business processes into a digital format \[J. Heider 2024\].
 
 ## Finding studies
 
