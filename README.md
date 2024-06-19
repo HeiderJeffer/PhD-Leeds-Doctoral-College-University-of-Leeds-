@@ -118,8 +118,9 @@ adopts and implements digital technology to create new or modify
 existing products, services, and operations by converting business
 processes into a digital format \[4\] \[5\] \[6\].
 
-![](./images/media/image1.png){width="4.918976377952756in"
-height="3.50659230096238in"}
+![A diagram of different types of industry Description automatically
+generated](./images/media/image1.png){width="6.5in"
+height="4.751388888888889in"}
 
 The digital transformation of the cultural industry is cultural industry
 involves in the process by which organizations in this sector adopt and
