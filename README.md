@@ -282,7 +282,7 @@ Leeds, the search results need to be exported. I will export the search
 results (in the form of URLs) from the Chrome browser on my laptop into
 a Word file (DOCX format).
 
-This step resulted in the Search Results Collection A, URL webpages
+This step resulted in the Search Results Collection A; URL webpages
 converted into Word file (DOCX format).
 
 **Step 4: Apply Inclusion/Exclusion Criteria to Search Results
