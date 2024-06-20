@@ -138,8 +138,8 @@ advancements.
     business processes into a digital format \[4\] \[5\] \[6\].
 
 ![A diagram of different types of industry Description automatically
-generated](./images/media/image1.png){width="6.5in"
-height="4.751388888888889in"}
+generated](./images/media/image1.png){width="5.865548993875765in"
+height="4.287615923009624in"}
 
 -   T**he** **digital transformation of the** **cultural industry:** is
     cultural industry involves in the process by which organizations in
@@ -234,15 +234,14 @@ and analysis process is illustrated in the following UML diagram and
 explained in detail in the subsequent text.
 
 ![A diagram of a process Description automatically
-generated](./images/media/image2.png){width="6.755290901137358in"
-height="8.585860673665792in"}
+generated](./images/media/image2.png){width="6.9394138232720906in"
+height="7.851359361329834in"}
 
 ## Data Collection Steps
 
 **Step 1. Define and refine search keywords**
 
-**\
-**The initial phase of data collection involved defining the search
+The initial phase of data collection involved defining the search
 keywords for retrieving secondary data. We brainstormed an initial set
 of keywords based on our primary objectives and research questions. The
 search string was structured according to the guidelines provided by
