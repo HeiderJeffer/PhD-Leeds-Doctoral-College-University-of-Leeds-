@@ -408,177 +408,6 @@ Opportunities) based on their similarities, grouping them into common
 categories. These categorized DT Cultural Industry types and triggering
 factors will address the research questions posed in this project.
 
-# Timescale for Research Project on Digital Transformation in the Cultural Industry
-
-This timescale ensures a structured approach to this research, with
-clear milestones and strategies to overcome potential challenges,
-demonstrating to supervisors that the project is both achievable and
-well-planned.
-
-## Year 1: Literature Review and Initial Data Collection
-
-**Milestones:**
-
--   **Months 1-3: Project Planning and Setup**
-
-    -   Finalize research proposal and get approval from supervisors.
-
-    -   Develop detailed project plan and schedule.
-
-    -   Identify and obtain necessary resources (software, access to
-        databases, etc.).
-
--   **Months 4-6: Comprehensive Literature Review**
-
-    -   Review existing literature on digital transformation and its
-        impact on various industries.
-
-    -   Focus on the cultural industry, identifying key themes, gaps,
-        and methodologies used in previous studies.
-
-    -   Write and submit a literature review chapter.
-
--   **Months 7-9: Research Design and Methodology**
-
-    -   Develop research framework and choose appropriate research
-        methods (quantitative, qualitative, or mixed-methods).
-
-    -   Design data collection tools (surveys, interview guides).
-
-    -   Pilot test data collection tools and refine them based on
-        feedback.
-
--   **Months 10-12: Initial Data Collection**
-
-    -   Begin collecting primary data from selected cultural
-        organizations.
-
-    -   Gather secondary data from industry reports, financial records,
-        and gray literature.
-
-    -   Conduct initial analysis to ensure data quality and relevance.
-
-**Challenges and Mitigation:**
-
--   **Access to Data:** Ensure agreements with cultural organizations
-    for data access.
-
--   **Literature Scope:** Use comprehensive databases and consult with
-    supervisors regularly.
-
-## Year 2: Data Collection and Preliminary Analysis
-
-**Milestones:**
-
--   **Months 13-18: Extensive Data Collection**
-
-    -   Continue collecting primary data through surveys and interviews.
-
-    -   Collect detailed case studies from cultural organizations.
-
-    -   Ensure data is categorized and stored systematically for
-        analysis.
-
--   **Months 19-24: Data Analysis**
-
-    -   Perform quantitative analysis on performance metrics.
-
-    -   Conduct qualitative analysis on case studies and interview
-        transcripts.
-
-    -   Identify key factors influencing digital transformation in the
-        cultural industry.
-
-**Challenges and Mitigation:**
-
--   **Data Consistency:** Regularly validate and cross-check data.
-
--   **Analytical Tools:** Use reliable statistical software and
-    qualitative analysis tools, with training as needed.
-
-## Year 3: Integration and Synthesis of Findings
-
-**Milestones:**
-
--   **Months 25-30: Integrative Analysis**
-
-    -   Synthesize quantitative and qualitative findings.
-
-    -   Identify patterns, correlations, and causal relationships.
-
-    -   Develop a theoretical model explaining the impact of digital
-        transformation on the cultural industry.
-
--   **Months 31-36: Drafting and Refinement**
-
-    -   Write chapters on data analysis and findings.
-
-    -   Integrate findings into a coherent narrative.
-
-    -   Seek feedback from supervisors and revise accordingly.
-
-**Challenges and Mitigation:**
-
--   **Complexity in Integration:** Break down findings into manageable
-    sections for analysis and synthesis.
-
--   **Iterative Feedback:** Schedule regular meetings with supervisors
-    for feedback.
-
-## Year 4: Finalization and Dissemination
-
-**Milestones:**
-
--   **Months 37-42: Final Draft Preparation**
-
-    -   Complete writing of all chapters, including introduction,
-        methodology, findings, and conclusions.
-
-    -   Ensure all references and citations are correctly formatted.
-
-    -   Submit drafts for supervisor review and make necessary
-        revisions.
-
--   **Months 43-48: Review and Submission**
-
-    -   Conduct final proofreading and editing.
-
-    -   Prepare for thesis defense by summarizing key findings and
-        contributions.
-
-    -   Submit final thesis and schedule defense.
-
--   **Months 49-54: Dissemination of Research**
-
-    -   Publish research findings in academic journals and conferences.
-
-    -   Create summary reports for cultural organizations and
-        policymakers.
-
-    -   Develop presentations and attend industry conferences to share
-        insights.
-
-**Challenges and Mitigation:**
-
--   **Publication Delays:** Start the publication process early and
-    submit to multiple journals.
-
--   **Defense Preparation:** Engage in mock defenses and seek feedback
-    from peers and supervisors.
-
-## Summary of Yearly Achievements
-
--   **Year 1:** Establish a strong foundation through literature review
-    and initial data collection.
-
--   **Year 2:** Gather comprehensive data and perform preliminary
-    analyses.
-
--   **Year 3:** Integrate findings and develop theoretical models.
-
--   **Year 4:** Finalize and disseminate research, ensuring practical
-    and academic contributions.
-
 # Expected outcomes
 
 ## Outline of Contribution
@@ -780,6 +609,177 @@ some potential limitations:
 -   **Conceptual and Theoretical Limitations:** Broad interpretations of
     digital transformation and challenges in defining performance
     metrics.
+
+# Timescale for Research Project on Digital Transformation in the Cultural Industry
+
+This timescale ensures a structured approach to this research, with
+clear milestones and strategies to overcome potential challenges,
+demonstrating to supervisors that the project is both achievable and
+well-planned.
+
+## Year 1: Literature Review and Initial Data Collection
+
+**Milestones:**
+
+-   **Months 1-3: Project Planning and Setup**
+
+    -   Finalize research proposal and get approval from supervisors.
+
+    -   Develop detailed project plan and schedule.
+
+    -   Identify and obtain necessary resources (software, access to
+        databases, etc.).
+
+-   **Months 4-6: Comprehensive Literature Review**
+
+    -   Review existing literature on digital transformation and its
+        impact on various industries.
+
+    -   Focus on the cultural industry, identifying key themes, gaps,
+        and methodologies used in previous studies.
+
+    -   Write and submit a literature review chapter.
+
+-   **Months 7-9: Research Design and Methodology**
+
+    -   Develop research framework and choose appropriate research
+        methods (quantitative, qualitative, or mixed-methods).
+
+    -   Design data collection tools (surveys, interview guides).
+
+    -   Pilot test data collection tools and refine them based on
+        feedback.
+
+-   **Months 10-12: Initial Data Collection**
+
+    -   Begin collecting primary data from selected cultural
+        organizations.
+
+    -   Gather secondary data from industry reports, financial records,
+        and gray literature.
+
+    -   Conduct initial analysis to ensure data quality and relevance.
+
+**Challenges and Mitigation:**
+
+-   **Access to Data:** Ensure agreements with cultural organizations
+    for data access.
+
+-   **Literature Scope:** Use comprehensive databases and consult with
+    supervisors regularly.
+
+## Year 2: Data Collection and Preliminary Analysis
+
+**Milestones:**
+
+-   **Months 13-18: Extensive Data Collection**
+
+    -   Continue collecting primary data through surveys and interviews.
+
+    -   Collect detailed case studies from cultural organizations.
+
+    -   Ensure data is categorized and stored systematically for
+        analysis.
+
+-   **Months 19-24: Data Analysis**
+
+    -   Perform quantitative analysis on performance metrics.
+
+    -   Conduct qualitative analysis on case studies and interview
+        transcripts.
+
+    -   Identify key factors influencing digital transformation in the
+        cultural industry.
+
+**Challenges and Mitigation:**
+
+-   **Data Consistency:** Regularly validate and cross-check data.
+
+-   **Analytical Tools:** Use reliable statistical software and
+    qualitative analysis tools, with training as needed.
+
+## Year 3: Integration and Synthesis of Findings
+
+**Milestones:**
+
+-   **Months 25-30: Integrative Analysis**
+
+    -   Synthesize quantitative and qualitative findings.
+
+    -   Identify patterns, correlations, and causal relationships.
+
+    -   Develop a theoretical model explaining the impact of digital
+        transformation on the cultural industry.
+
+-   **Months 31-36: Drafting and Refinement**
+
+    -   Write chapters on data analysis and findings.
+
+    -   Integrate findings into a coherent narrative.
+
+    -   Seek feedback from supervisors and revise accordingly.
+
+**Challenges and Mitigation:**
+
+-   **Complexity in Integration:** Break down findings into manageable
+    sections for analysis and synthesis.
+
+-   **Iterative Feedback:** Schedule regular meetings with supervisors
+    for feedback.
+
+## Year 4: Finalization and Dissemination
+
+**Milestones:**
+
+-   **Months 37-42: Final Draft Preparation**
+
+    -   Complete writing of all chapters, including introduction,
+        methodology, findings, and conclusions.
+
+    -   Ensure all references and citations are correctly formatted.
+
+    -   Submit drafts for supervisor review and make necessary
+        revisions.
+
+-   **Months 43-48: Review and Submission**
+
+    -   Conduct final proofreading and editing.
+
+    -   Prepare for thesis defense by summarizing key findings and
+        contributions.
+
+    -   Submit final thesis and schedule defense.
+
+-   **Months 49-54: Dissemination of Research**
+
+    -   Publish research findings in academic journals and conferences.
+
+    -   Create summary reports for cultural organizations and
+        policymakers.
+
+    -   Develop presentations and attend industry conferences to share
+        insights.
+
+**Challenges and Mitigation:**
+
+-   **Publication Delays:** Start the publication process early and
+    submit to multiple journals.
+
+-   **Defense Preparation:** Engage in mock defenses and seek feedback
+    from peers and supervisors.
+
+## Summary of Yearly Achievements
+
+-   **Year 1:** Establish a strong foundation through literature review
+    and initial data collection.
+
+-   **Year 2:** Gather comprehensive data and perform preliminary
+    analyses.
+
+-   **Year 3:** Integrate findings and develop theoretical models.
+
+-   **Year 4:** Finalize and disseminate research, ensuring practical
+    and academic contributions.
 
 # Bibliography
 
