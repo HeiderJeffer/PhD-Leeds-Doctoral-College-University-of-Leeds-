@@ -7,6 +7,9 @@ By Heider Jeffer
 
 June 19, 2024
 
+**Here you can read and download pdf
+([Link](https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/d.pdf))**
+
 **Keywords:** Cultural Industry Digitalization, Digital Innovation in
 Arts, Technological Change in Cultural Organizations, Operational
 Efficiency in Cultural Institutions, Creative Industries Digital
