@@ -337,23 +337,76 @@ This step resulted in the creation of Case Collection A, which includes
 the identified cases. The webpages will be reorganized according to
 these cases.
 
+**Step 6. Apply Quality Assurance Criteria to Case Collection A**
+
+In order to ensure that we possess sufficient and adequate data for
+further analysis, we will assess the quality of the data in Case
+Collection A using the following criteria:
+
+-   Can the data regarding a case involving (Digital Transformation
+    Cultural Industry) enable researchers to reconstruct the narrative
+    of \[(Challenges) OR (Opportunities)\] concerning what the Cultural
+    Industry focused on before and after the Digital Transformation, and
+    why the Cultural Industry underwent this transformation?
+
+-   Do researchers need to engage in excessive speculation to understand
+    the nature of the Digital Transformation for the Cultural Industry
+    and the factors that triggered it?
+
+Cases meeting a positive response to the first criterion and a negative
+response to the second criterion will be included. Those not meeting
+these criteria will be excluded. This process has resulted in Case
+Collection B, which comprises cases selected for use in the data
+analysis.
+
 ## Data Analysis Steps
 
-Inclusion criteria and Exclusion criteria
+**Step 7. Extract Relevant Data from Case Collection B**
 
-\- Developing a model to include/exclude (case studies).
+For each case involving Digital Transformation and the Cultural Industry
+in Case Collection B, we sought the following information:
 
-\- From Included Case Studies. This project will develop a model to
-extract the Challenges and Opportunities. factors that impact Digital
-Transformation on Performance and the Cultural Industry from the
-included case studies.
+**Background Information:**
 
-\- Organizing those factors into identical groups
+-   Name of the Industry
 
-\- Those factors reflect the failure and the success of The Impact of
-Digital Transformation on Performance and the Cultural Industry. Those
-factors answered the research questions that we addressed in this
-project
+-   Location of the Industry
+
+-   Founding Year and/or First Product Release Date
+
+-   Business Domain
+
+-   Main Business/Product/Service Before the Digital Transformation
+
+-   Main Business/Product/Service After the Digital Transformation
+
+-   Description and Explanation of How and Why the Cultural Industry
+    Shifted to Digital Transformation
+
+**Step 8. Coding the Data to Identify DT Types and Triggering Factors**
+
+We will extract and analyze the data for each case qualitatively to
+identify the types of Digital Transformation (DT) in the Cultural
+Industry and the Challenges or Opportunities that triggered these
+transformations. The explanations provided in the case materials will be
+used to pinpoint the triggering factors of DT.
+
+Our case selection process ensures that the triggering factors leading
+to DT in the cultural industry are well-documented. We will use a
+completely open coding process to allow the emergence of the triggering
+factors, whether they are Challenges or Opportunities.
+
+This step will result in the identification of DT Cultural Industry
+types and their respective (Challenges or Opportunities) triggering
+factors.
+
+**Step 9. Group DT Cultural Industry Types and Triggering Factors**
+
+We will categorize the types of Digital Transformation (DT) in the
+Cultural Industry and the triggering factors (Challenges or
+Opportunities) based on their similarities, grouping them into common
+categories. These categorized DT Cultural Industry types and triggering
+factors will address the research questions posed in this project.
 
 # Timescale for Research Project on Digital Transformation in the Cultural Industry
 
