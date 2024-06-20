@@ -230,6 +230,10 @@ on gray literature to offer a comprehensive overview.
 and analysis process is illustrated in the following UML diagram and
 explained in detail in the subsequent text.
 
+![A diagram of a process Description automatically
+generated](./images/media/image2.png){width="6.755290901137358in"
+height="8.585860673665792in"}
+
 ## Data Collection Steps
 
 **Step 1. Define and refine search keywords**
@@ -261,16 +265,15 @@ of (Challenges OR Opportunities) in digital communities alongside
 
 **Step 2: Applying search keywords using the Google search engine:**
 
-**\
-**To search online sources, the Google search engine was accessed
-through the Chrome browser. To minimize the influence of geographical
-location on the search results, [www.google.com](http://www.google.com)
-was used. Prior to starting the search, I deleted the search history in
-Chrome, cleared the browser cache, logged out of my personal Google
-account, and removed all Chrome extensions. These steps were taken to
-ensure that my personal and historical data had minimal impact on the
-search results. In the Google search settings, I turned off Google
-Instant predictions and enabled 100 results per page.
+To search online sources, the Google search engine was accessed through
+the Chrome browser. To minimize the influence of geographical location
+on the search results, [www.google.com](http://www.google.com) was used.
+Prior to starting the search, I deleted the search history in Chrome,
+cleared the browser cache, logged out of my personal Google account, and
+removed all Chrome extensions. These steps were taken to ensure that my
+personal and historical data had minimal impact on the search results.
+In the Google search settings, I turned off Google Instant predictions
+and enabled 100 results per page.
 
 **Step 3: Export Search Results**
 
@@ -895,23 +898,23 @@ E,g, 1 Data Analysis showing How we processed the Case Studies by NVivo
 software
 
 ![Graphical user interface, application, table Description automatically
-generated](./images/media/image2.png){width="6.5in"
+generated](./images/media/image3.png){width="6.5in"
 height="3.732646544181977in"}
 
 E.g, Showing how we use NVivo software to process the Content
 Analysis![Graphical user interface, text, application Description
-automatically generated](./images/media/image3.png){width="6.5in"
+automatically generated](./images/media/image4.png){width="6.5in"
 height="3.745365266841645in"}
 
 ![Graphical user interface, text, application Description automatically
-generated](./images/media/image4.png){width="6.743055555555555in"
+generated](./images/media/image5.png){width="6.743055555555555in"
 height="3.8868055555555556in"}
 
 ![Graphical user interface, application, table, Excel Description
 automatically
-generated](./images/media/image5.png){width="6.743055555555555in"
+generated](./images/media/image6.png){width="6.743055555555555in"
 height="3.8819444444444446in"}
 
 ![Graphical user interface, application, table Description automatically
-generated](./images/media/image6.png){width="6.743055555555555in"
+generated](./images/media/image7.png){width="6.743055555555555in"
 height="3.8805555555555555in"}
