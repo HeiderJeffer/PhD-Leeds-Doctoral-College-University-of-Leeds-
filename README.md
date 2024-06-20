@@ -4,7 +4,9 @@
 The provided document is a PhD proposal by Heider Jeffer titled \"The
 Impact of Digital Transformation on Performance and the Cultural
 Industry: Challenges and Opportunities\" submitted to the University of
-Leeds. Here are key aspects covered in the document:
+Leeds.
+
+**Here are key aspects covered in the document:**
 
 1.  **Introduction**: The study focuses on the impact of digital
     transformation on the cultural industry, identifying challenges and
