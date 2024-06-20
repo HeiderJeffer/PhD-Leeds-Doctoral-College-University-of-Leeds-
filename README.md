@@ -1,6 +1,10 @@
 **Title: {The Impact of** **Digital Transformation on Performance and
 the Cultural Industry: Challenges and Opportunities}**
 
+By Heider Jeffer
+
+June 19, 2024
+
 **Keywords:** Cultural Industry Digitalization, Digital Innovation in
 Arts, Technological Change in Cultural Organizations, Operational
 Efficiency in Cultural Institutions, Creative Industries Digital
@@ -10,13 +14,6 @@ Digitization of Cultural Heritage, Ethical Issues in Digital Heritage,
 Digital User Experience (UX) in Culture, Audience Interaction with
 Digital Arts, AI in Arts and Culture, Qualitative Studies in Cultural
 Transformation
-
-PhD Leeds Doctoral College\
-University of Leeds
-
-By Heider Jeffer
-
-June 19, 2024
 
 # Introduction
 
