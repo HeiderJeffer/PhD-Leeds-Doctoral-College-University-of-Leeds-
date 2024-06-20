@@ -282,6 +282,9 @@ Leeds, the search results need to be exported. I will export the search
 results (in the form of URLs) from the Chrome browser on my laptop into
 a Word file (DOCX format).
 
+This step resulted in the Search Results Collection A, URL webpages
+converted into Word file (DOCX format).
+
 **Step 4: Apply Inclusion/Exclusion Criteria to Search Results
 Collection A**
 
@@ -341,9 +344,9 @@ these cases.
 
 **Step 6. Apply Quality Assurance Criteria to Case Collection A**
 
-In order to ensure that we possess sufficient and adequate data for
-further analysis, we will assess the quality of the data in Case
-Collection A using the following criteria:
+To ensure that we possess sufficient and adequate data for further
+analysis, we will assess the quality of the data in Case Collection A
+using the following criteria:
 
 -   Can the data regarding a case involving (Digital Transformation
     Cultural Industry) enable researchers to reconstruct the narrative
