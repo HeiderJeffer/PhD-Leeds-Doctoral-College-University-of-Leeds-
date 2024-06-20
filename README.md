@@ -314,6 +314,29 @@ Collection A.
 
 -   The webpage is not in English.
 
+This step resulted in the Search Results Collection B which contains
+URLs and represents webpages.
+
+**Step 5. Identify Cases from Search Results Collection B**
+
+I will review the content of the webpages, focusing on information
+regarding Digital Transformation and the Cultural Industry during their
+DT processes.
+
+Each mention of (Digital Transformation and the Cultural Industry) will
+be considered a potential case for further analysis.
+
+This step was relatively objective and straightforward, primarily
+conducted by me and the researchers at the University of Leeds who are
+collaborating on this project.
+
+In cases of uncertainty, my supervisor(s) at the University of Leeds
+will be consulted.
+
+This step resulted in the creation of Case Collection A, which includes
+the identified cases. The webpages will be reorganized according to
+these cases.
+
 ## Data Analysis Steps
 
 Inclusion criteria and Exclusion criteria
