@@ -1,13 +1,22 @@
-**Title: {The Impact of** **Digital Transformation on Performance and
-the Cultural Industry: Challenges and Opportunities}**
+![University of Leeds Logo PNG Transparent & SVG Vector - Freebie
+Supply](./images/media/image1.png){width="2.589595363079615in"
+height="2.589595363079615in"}
 
 **PhD Leeds Doctoral College - University of Leeds**
+
+**Title: {The Impact of** **Digital Transformation on Performance and
+the Cultural Industry: Challenges and Opportunities}**
 
 By Heider Jeffer
 
 June 19, 2024
 
-**Here you can read and download pdf
+Supervisor(s): \-\-\--
+
+Submitted for the PhD research degree study at the Faculty of Art
+Humanities and Cultures
+
+**Read and download pdf
 ([Link](https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/d.pdf))**
 
 **Keywords:** Cultural Industry Digitalization, Digital Innovation in
@@ -138,8 +147,8 @@ advancements.
     business processes into a digital format \[4\] \[5\] \[6\].
 
 ![A diagram of different types of industry Description automatically
-generated](./images/media/image1.png){width="5.865548993875765in"
-height="4.287615923009624in"}
+generated](./images/media/image2.png){width="5.688185695538058in"
+height="4.157965879265092in"}
 
 -   T**he** **digital transformation of the** **cultural industry:** is
     cultural industry involves in the process by which organizations in
@@ -234,8 +243,8 @@ and analysis process is illustrated in the following UML diagram and
 explained in detail in the subsequent text.
 
 ![A diagram of a process Description automatically
-generated](./images/media/image2.png){width="6.9394138232720906in"
-height="7.851359361329834in"}
+generated](./images/media/image3.png){width="7.2015168416447946in"
+height="8.147905730533683in"}
 
 ## Data Collection Steps
 
@@ -368,7 +377,8 @@ analysis.
 
 ## Data Analysis Steps
 
-**Step 7. Extract Relevant Data from Case Collection B**
+**Step 7. Extract Relevant Data from Case Collection B\
+**
 
 For each case involving Digital Transformation and the Cultural Industry
 in Case Collection B, we sought the following information:
@@ -617,7 +627,7 @@ some potential limitations:
     digital transformation and challenges in defining performance
     metrics.
 
-# Timescale for Research Project on Digital Transformation in the Cultural Industry
+# Timescale for Research Project
 
 This timescale ensures a structured approach to this research, with
 clear milestones and strategies to overcome potential challenges,
@@ -894,32 +904,3 @@ https://www.routledge.com/Digital-Transformation-in-the-Cultural-and-Creative-In
 
 \[22\] "DIGITAL TRANSFORMATION IN THE CULTURAL AND CREATIVE SECTORS AND
 INDUSTRIES - Executive Summary".
-
-# APPENDIX
-
-## Data collection and Data Analysis with NVivo Software
-
-E,g, 1 Data Analysis showing How we processed the Case Studies by NVivo
-software
-
-![Graphical user interface, application, table Description automatically
-generated](./images/media/image3.png){width="6.5in"
-height="3.732646544181977in"}
-
-E.g, Showing how we use NVivo software to process the Content
-Analysis![Graphical user interface, text, application Description
-automatically generated](./images/media/image4.png){width="6.5in"
-height="3.745365266841645in"}
-
-![Graphical user interface, text, application Description automatically
-generated](./images/media/image5.png){width="6.743055555555555in"
-height="3.8868055555555556in"}
-
-![Graphical user interface, application, table, Excel Description
-automatically
-generated](./images/media/image6.png){width="6.743055555555555in"
-height="3.8819444444444446in"}
-
-![Graphical user interface, application, table Description automatically
-generated](./images/media/image7.png){width="6.743055555555555in"
-height="3.8805555555555555in"}
