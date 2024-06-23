@@ -2,7 +2,11 @@ The document titled **\"[The Impact of Digital Transformation on
 Performance and the Cultural Industry: Challenges and
 Opportunities](https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/d.pdf)\"**
 is a PhD research proposal, by Heider Jeffer, submitted for the Leeds
-Doctoral College - University of Leeds, covers the following key areas:
+Doctoral College - University of Leeds, **[Possible Research
+questions](https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/Possible%20Research%20questions.pdf)**
+and
+[**Appendix**](https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/APPENDIX.pdf),
+covers the following key areas:
 
 1.  **Introduction**:
 
@@ -100,4 +104,4 @@ Doctoral College - University of Leeds, covers the following key areas:
 This summary provides a comprehensive overview of the research
 objectives, methodology, expected outcomes, and the significance of
 digital transformation in the cultural industry as outlined in the
-document.
+research proposal.
