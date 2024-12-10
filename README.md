@@ -1,11 +1,12 @@
+# The Impact of Digital Transformation on Performance and the Cultural Industry: Challenges and Opportunities
+
+  **Author**: *Heider Jeffer*
+
 https://github.com/HeiderJeffer/PhD-Leeds-Doctoral-College-University-of-Leeds/blob/main/d.pdf
 
-### Overview
 
--   **Title**: The Impact of Digital Transformation on Performance and
-    the Cultural Industry: Challenges and Opportunities
 
--   **Author**: Heider Jeffer
+- 
 
 
 ### Key Sections
